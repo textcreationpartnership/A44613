@@ -1,0 +1,988 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sufficiency of the spirits teaching without humane learning a treatise tending to prove humane learning to be no help to the spirituall understanding of the word of God ... / by Samuel How.</title>
+            <author>How, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44613</idno>
+            <idno type="STC">Wing H2952</idno>
+            <idno type="STC">ESTC R24385</idno>
+            <idno type="EEBO-CITATION">08163823</idno>
+            <idno type="OCLC">ocm 08163823</idno>
+            <idno type="VID">40978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1231:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sufficiency of the spirits teaching without humane learning a treatise tending to prove humane learning to be no help to the spirituall understanding of the word of God ... / by Samuel How.</title>
+                  <author>How, Samuel.</author>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>[6], 39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Newly printed, and are to be sold by William Larnar,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Seen, allowed, and first printed by some friends of the author, 1639."</note>
+                  <note>Postscript by William Kyffen [1] p. at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Revelation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40978:1" rendition="simple:additions"/>
+            <p>SUFFICIENCY OF THE SPIRITS TEACHING WITHOUT Humane Learning. Or a Treatiſe tending to prove <hi>Humane Learning</hi> to be no help to the Spirituall Underſtand<g ref="char:EOLhyphen"/>ing of the Word of God. Written (if it may be) for the ſilencing of ſuch falſe and ſcan<g ref="char:EOLhyphen"/>dalous Reports as have been rumoured about concern<g ref="char:EOLhyphen"/>ing this matter; and alſo for the information of all ſuch as deſire to know the Truth.</p>
+            <p>By SAMUEL HOVV.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 14.5.</hi>
+               </bibl>
+               <p>A faithful Witneſs will not lie, but a falſe Record will ſpeak lies.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Eſay 57.14.</hi>
+               </bibl>
+               <p>Caſt ye up, caſt ye up, prepare the way, take up the ſtumbling block out of the way of my people.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mal. 2.1, 2.</hi>
+               </bibl>
+               <p>And now ô ye Prieſts, this Commandment is for you, if ye will not hear it, nor conſider it in your heart, to give glory to my Name (ſaith the Lord of Hoaſts) I will even ſend a curſe upon you, and will curſe your bleſſings, yea, I have curſed them already, becauſe ye do not conſider it in your heart.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 11.25, 26.</hi>
+               </bibl>
+               <p>At that time Jeſus anſwered and ſaid, I thank thee ô Father, Lord of heaven and earth, becauſe thou haſt hid theſe things from the wiſe, and men of understanding, and bast revealed them unto Babes, even ſo Father, becauſe thy good pleaſure is ſuch.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Luke 16.15.</hi>
+               </bibl>
+               <p>Then he ſaid unto them, ye are they that juſtifie your ſelves before men, but God knows your hearts, for that which is highly eſteemed among men, is abo<g ref="char:EOLhyphen"/>mination in the ſight of God.</p>
+            </q>
+            <p>Seen, allowed, and firſt printed by ſome friends of the Author. 1639.</p>
+            <p>Newly printed, and are to-be ſold by <hi>William Larnar</hi> at the <hi>Black<g ref="char:EOLhyphen"/>more</hi> neer <hi>FLEET-BRIDGE,</hi> 1655.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40978:2"/>
+            <pb facs="tcp:40978:2"/>
+            <head>To all ſuch as love the truth in Sinceri<g ref="char:EOLhyphen"/>cerity, Light, and Underſtanding, be multiplied through JESUS CHRIST.</head>
+            <p>
+               <hi>GOds</hi> Gracions Promiſe it is (Chriſtian Reader) <hi>that by the</hi>
+               <note n="a" place="margin">2 Theſ. 2.8.</note> 
+               <hi>breath of his mouth, and the brightneſs of his coming he will reveal the Man of Sin, and Son of Perdition:</hi> Yet thus witneſſeth the Spirit, that when it ſhall ſo come to paſs, <hi>That the Vial of Gods wrath ſhall be</hi>
+               <note n="b" place="margin">Rev. 16.10, 11.</note> 
+               <hi>poured upon the Throne of the Beaſt,</hi> to the darkning of his Kingdome, and diſcovering of thoſe ſtrong Deluſions, whereby he hath long deluded the World, that then the men of that throne <hi>ſhall gnaw their tongues for ſorrow, and ſhall blaſpheme the God of Heaven.</hi>
+            </p>
+            <p>All which to me appears to be fulfilled and made good con<g ref="char:EOLhyphen"/>cerning this following Treatiſe: 1. <hi>That when as the Lord by his Word, the breath of his month, hath blown out ſome ſmoak of the Bot<g ref="char:EOLhyphen"/>tomleſs Pit, which I conceive to be</hi> Humane Learning, <hi>which is ſo much magnified, as being a help, whereby to underſtand the mind of</hi> God.</p>
+            <p>This matter hath ſo vexed and tormented the men of that Throne, that even<note n="*" place="margin">J. G.</note> He himſelf, at whoſe requeſt I was moved to open this portion of Scripture, 2 <hi>Pet.</hi> 3.16. hath (as I am cre<g ref="char:EOLhyphen"/>dibly informed) reported about this City, that I made a Calf (meaning a falſe and unſound expoſition) and when I had done, danced about it; herein expoſing not only me, but the very Truth it ſelf, which I in this point delivered, to the deriſion, and contempt, and Table-talk of ſuch as had rather be deceived and believe their learned Teachers (as men call them) on their bare word, (having the Faith of our <hi>Lord Jeſus Chriſt,</hi> the Lord of Glory with reſpect of Perſon) then to receive and juſtifie the Truth of <hi>God,</hi> if the Meſſenger be weak and contemptible, and his meſſage in power, much plainneſs, and demonſtration of the Spirit, and not beautified with the excellency of ſpeech, and ſwelling words of mans wiſdom, which is <hi>enmity to God;</hi> it croſ<g ref="char:EOLhyphen"/>ſeth and oppoſeth the ſimplicity of his way in the <hi>diſpenſation of the glorious Myſtery of the Goſpel.</hi> And therefore <hi>God</hi> hath ſaid of it, as <hi>Simon Peter</hi> ſaid to <hi>Simon Magus,</hi>
+               <note n="c" place="margin">Act. 8.21. 1 Cor. 1.19.</note> 
+               <hi>Thou haſt neither part nor lot in this matter.</hi>
+            </p>
+            <pb facs="tcp:40978:3"/>
+            <p>But yet (methinks) <hi>ſuch men</hi>
+               <note n="d" place="margin">Epheſ. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note> as would carry the <hi>ſhew of godlineſſe,</hi> ſhould remember the counſel of the Apoſtle, <hi>That ſuch carriages are things not ſeemly,</hi> though for my own part, I bleſſe the Lord for it, being to me a more ſtrong confirmation, that I have the Truth on my ſide: For thus was<note n="e" place="margin">Lu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.</note> 
+               <hi>Ieſus Chriſt our Lord</hi> ſerved by the wiſe and learned <hi>Phariſees;</hi> when as he taught them ſuch a Doctrine as pleaſed them not: And thus was <hi>Paul</hi> the Preacher of Righteouſneſs dealt by of the learned<note n="f" place="margin">Act. 17.18.</note> 
+               <hi>Athenians,</hi> even for preaching <hi>Ieſus,</hi> and the Reſurrection. Likewiſe I read in <hi>Heb.</hi> 11. that this in former times was part of the Tryal that the Lord exerciſed his Witneſſes withall, even <hi>mockings, verſe</hi> 36. And therefore as our Saviour teacheth me, I have in this caſe great cauſe to be <hi>glad</hi> and <hi>rejoyce,</hi> for they ha<g ref="char:EOLhyphen"/>ving ſo ſerved <hi>Ieſus Chriſt. my Lord,</hi> and his faithful followers; then what am I, that I ſhould be one of that number, that have ſo large<note n="g" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 5.12.</note> 
+               <hi>incouragement</hi> and <hi>reward promiſed?</hi> I ſhall therefore quietly paſſe by all ſuch things, and onely<note n="h" place="margin">Job 21.3.</note> with <hi>Iob</hi> in his diſtreſſed condition, cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve that he and all you that have done this thing will <hi>ſuffer me to ſpeak, and when I have ſpoken mock on;</hi> ſeeing as the<note n="i" place="margin">Job 12.2.</note> Servant of God ſaid, <hi>Indeed, becauſe ye are the people only, Wiſdome muſt die with you;</hi> ſo will I make bold to ſay to you alſo: Yet for all his <hi>underſtanding,</hi> and ſuch others as heard me, they failed of their zeal for God and his glory, in that they ſought not to ſuppreſs and throw down that Calf of <hi>diſho<g ref="char:EOLhyphen"/>nor,</hi> which muſt needs (being an Idol) be a very high provo<g ref="char:EOLhyphen"/>cation in the eyes of his Glory, which he that put me upon this Exerciſe, having excepted againſt it when it was finiſht, and with much paſſion manifeſted his great diſlike thereof before many witneſſes, ought eſpecially, and was obliged to have done, be<g ref="char:EOLhyphen"/>ing then lovingly requeſted by a friend that was there preſent, for the ſatisfaction of all that Aſſembly, to inſtance (if not in all) yet at leaſt in ſome particular Scripture, wherein I had per<g ref="char:EOLhyphen"/>verted it, ſeeing he had openly caſt an aſperſion on all that I had ſaid; but neither he, nor any of his Profeſſion, though many were then preſent, did undertake this task, nor yet to this day hath he, or any of them endeavoured it: So it may appear my Error was not ſo great, or none at all, that they could prove; or elſe their <hi>zeal</hi> to God and his Truth, and their <hi>charity</hi> to me and others very ſmall. And if there were a Calfe, it was their <hi>Humane Learning</hi> and <hi>Wiſdome</hi> which the men of this <hi>Throne</hi> ſet
+<pb facs="tcp:40978:3"/>up, and themſelves danced about it, whileſt I, to their great <hi>grief</hi> and <hi>diſcontent,</hi> was labouring with all the power and might that God aſſiſted me with, utterly to caſt down, grind it to pon<g ref="char:EOLhyphen"/>der, and to blow it away with the <hi>Word of God with the breath of his mouth:</hi> Whether it be thus, or no, I commend now to the judgment of all ſuch as love and know the Truth, not doubting but there will be ſome found, that out of love will reprove what is amiſſe, and ſo <hi>turn the ſinner out of the errour of his way,</hi> though ſome others, as<note n="k" place="margin">Job <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</note> 
+               <hi>Job</hi> ſaith, <hi>forge lies</hi> (as I could name divers) <hi>who are Phyſitians of no value.</hi>
+            </p>
+            <p>For <hi>God who knows the hearts of all men,</hi> knows that it was not my intent at all at that time to have medled in this Argument, nor with this Scripture, not till the night before I ſpake of it, and all becauſe I knew if I did, it would be offenſive, as it hath proved; and what I did herein, it was by the advice of Friends; But now I ſee that <hi>Gods</hi> hand was in it, and I doubt not but for good, though it is, and may be my portion deeply to ſuffer for it; and for men to be offended at the truth, and ſuch as declare it, is no new thing, even for the<note n="l" place="margin">Pſa. Acts 4.1 Eſay 8.14, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>builders</hi> themſelves to ſtumble at the ſtumbling ſtone: <hi>But leaving all ſuch to ſtand or fall to their own Lord.</hi>
+            </p>
+            <p>Something remains to be ſpoken concerning the matter fol<g ref="char:EOLhyphen"/>lowing, for the preventing of ſuch things as may further be ob<g ref="char:EOLhyphen"/>jected againſt it.</p>
+            <p n="1">1. Though the matter be the ſame in ſubſtance that it was at the firſt delivery, yet ſomewhat may be wanting, and is, which was then ſaid, and more is added in other reſpects then at that time was ſpoken, which I thought fit to give notice of.</p>
+            <p n="2">2. Another exception, and that of great moment, is, that I have blaſphemed againſt <hi>Jeſus Christ,</hi> in ſaying, that he was without <hi>Humane Learning.</hi>
+            </p>
+            <p>Now beſides what is anſwered hereunto in the firſt Objecti<g ref="char:EOLhyphen"/>on belonging to the firſt Doctrine, if any yet remain unſatisfied, and will affirm the contrary, <hi>let them declare,</hi> (as the<note n="m" place="margin">Rom. 11.34, 35.</note> Apo<g ref="char:EOLhyphen"/>ſtle ſaith) <hi>who was his Councellor? and who taught him? and he ſhall be recompenced.</hi> The Scripture cells us, <hi>that he grew in wiſ<g ref="char:EOLhyphen"/>dome and ſtature,</hi> and ſo couples them alike together. Now none will affirm, that he learned his <hi>Stature;</hi> then from the like will I affirm, that he learned not his <hi>Wiſdome,</hi> no more then he did his <hi>Stature;</hi> and ſo if none taught him, then muſt it needs follow, that he was without <hi>Humane Learning;</hi> for we in com<g ref="char:EOLhyphen"/>mon
+<pb facs="tcp:40978:4"/>ſpeech call them <hi>unlearned,</hi> which were never taught, as did the<note n="n" place="margin">John 7.15. Act 4.13</note> 
+               <hi>Jews;</hi> and <hi>Learning</hi> preſuppoſeth one to Teach; ſo that (methinks) it is but requiſite, if any did ſo affirm, that they ſhould declare his Teacher, which if they cannot do, why then ſhould they affirm him to have <hi>Humane Learning?</hi> And methinks, the matter being rightly conſidered, it will be found <hi>blaſphemy</hi> for any to affirm that He had <hi>Humane Learning,</hi> ſee<g ref="char:EOLhyphen"/>ing that in ſo doing, they call in queſtion the perfection of His <hi>Manhood,</hi> as if there were others that could adde unto Him: Seeing all grant that the Maſter is above the Scholar; and the Scripture witneſſeth for me, <hi>that at</hi>
+               <note n="o" place="margin">Luk. 2.46.47.</note> 
+               <hi>twelve years old,</hi> ſuch was His <hi>Wiſdome</hi> obſerved amongſt the <hi>Doctors,</hi> as that they were <hi>a<g ref="char:EOLhyphen"/>ſtoniſhed at his underſtanding and anſwers;</hi> and doubtleſs this was a part of their grear <hi>wonder,</hi> ſeeing that He never Learned, as it was the <hi>Councels wonder alſo concerning</hi>
+               <note n="p" place="margin">Act. 4.13.</note> Peter <hi>and</hi> John. Therefore for any to affirm him to be by men taught, is to take that glory from him which he had of His own, and ſo they are moſt like to be them that <hi>blaſpheme.</hi>
+            </p>
+            <p n="3">3. It is alſo very likely that <hi>Pride</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ain-glory</hi> will be im<g ref="char:EOLhyphen"/>puted to me, as it hath been already, that I being as I am, ſhould undertake to maintain that which all godly and learned men are contrary to me in.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I anſwer, that it is no ſtrange thing for the Servants of <hi>God</hi> to meet with ſuch hard meaſure, even for declaring of the <hi>truth;</hi> for <hi>ſo was</hi> Joſeph<note n="q" place="margin">Gen. 37.8.11.</note> dealt by even of his <hi>Father and Bre<g ref="char:EOLhyphen"/>thren;</hi> and ſo was<note n="r" place="margin">Sam. 17.28.</note> 
+               <hi>David</hi> uſed for ſpeaking <hi>for the Lord:</hi> And <hi>Paul</hi> you ſhall ſind was<note n="ſ" place="margin">Act. 17.18.</note> 
+               <hi>coffed at by the learned Athenians.</hi> And ſeeing that it hath alwayes been ſo with <hi>Gods</hi> Servants, why ſhould not I affirm with the<note n="t" place="margin">Cor. 4.3.</note> Apoſtle, <hi>not to paſs to be judged of men,</hi> whatſoever they be, though godly, wiſe, learned; ſeeing that as the Apoſtle ſaith, <hi>it makes no matter to me, God is no</hi>
+               <note n="u" place="margin">Gal. 2.6.</note> 
+               <hi>ac<g ref="char:EOLhyphen"/>cepter of perſons:</hi> And therefore I hold it a defence ſufficient with <hi>David</hi> to ſay,<note n="x" place="margin">1 Sam. 17.29</note> 
+               <hi>Is there not a cauſe? ſeeing that there is none that I know of that will ſtand up for the Lord against thoſe that defie the Hoast of</hi> Iſrael, <hi>becauſe that they be not</hi> Goliah <hi>like Men of ſtature, having Bowes of braſs, and ſuch like furniture, as that the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhly hearts of men dare not lock ſuch in the face, and all becauſe that they be ſo ſtrongly furniſhed with Mans ſtrength:</hi> Though that the Souldiers of the <hi>Lord of Hoasts</hi> may with one blaſt of a <hi>Rams horn,</hi> through the might of <hi>God,</hi>
+               <note n="y" place="margin">Joſh. 6.20.</note> blow down the ſtrong
+<pb facs="tcp:40978:4"/>Wall of this ſpirituall <hi>Jericho;</hi> ſeeing that the <hi>Lord</hi> hath ſaid, <hi>That by the</hi>
+               <note n="z" place="margin">Mat. 21.16.</note> 
+               <hi>mouth of Babes and Sucklings he will perfect his praiſe;</hi> and this if Babes ſhould neglect to do, <hi>the ſtones would cry.</hi> Whence it is to be obſerved, our Saviour deſcends from Babes to Stones, and not from Babes to Learned men, for he hath choſen ſuch to bring forth His <hi>Righteouſneſs as the light;</hi> for He himſelf doth not <hi>deſpiſe the day of</hi>
+               <note n="a" place="margin">Zach. 4.10.</note> 
+               <hi>ſmall things.</hi> Now theſe things conſidered, why ſhould any with the proud<note n="b" place="margin">Mat. 21.15.</note> 
+               <hi>Phariſees</hi> diſdain at what the <hi>Lord</hi> will do, but lay their hands upon their mouths and ſay nothing, becauſe He<note n="c" place="margin">Pſal. 39.</note> 
+               <hi>doth it;</hi> And ſeeing it is <hi>the Lords</hi>
+               <note n="d" place="margin">Pſal. 118.23.</note> 
+               <hi>doing, why ſhould it not be marvellous in our eyes?</hi> Though I doubt not but the Lord will in his good time bring forth one <hi>learned Moſes,</hi> and another as excellent that ways as was <hi>Paul,</hi> and cauſe them, diſclaiming that Humane excellency, to magnifie the fooliſhneſs of God,<note n="c" place="margin">1 Cor. 1.</note> to be wiſer then the wiſ<g ref="char:EOLhyphen"/>dome of men, and ſo every way convince them of their folly, this way to his praiſe.</p>
+            <p>And in the mean while let them that can receive this for truth, receive it, and let none be ſo conceited of Learned men, <hi>as if the Word of God came only to them, and from them; as</hi> Paul ſaid to<note n="f" place="margin">1 Cor. 14.36, 37.</note> ſome that were puffed up. But let ſuch as are Spiritu<g ref="char:EOLhyphen"/>all know, that the Lord reveals his Myſteries to whom he plea<g ref="char:EOLhyphen"/>ſeth, and where he will; and therefore <hi>the eye of none ſhould be e<g ref="char:EOLhyphen"/>vil becauſe he is good:</hi> But we ſhould learn, as the wiſe in an ſaith, <hi>That</hi>
+               <note n="g" place="margin">Eccleſ. 9.11.</note> 
+               <hi>the race is not alway to the ſwift, nor the battel to the ſtrong;</hi> but it may ſo prove, that little <hi>David,</hi> without <hi>Sauls</hi> Arm or, on<g ref="char:EOLhyphen"/>ly with a Sling, and a ſtone through the Name of the <hi>Lord,</hi> may ſo wound great <hi>Goliah</hi> of <hi>Gath,</hi> the enemy of <hi>God</hi> and his people, as that he may receive his deadly wound, and lye groveling on the ground, to the diſmayment of all the Hoſt of the <hi>Philiſtins,</hi> and great rejoycing of the <hi>Iſrael</hi> of <hi>God,</hi> and this the Stone that is he wen out of the Mountain without hands, is only able to do. Therefore let all that fear the Lord take heed that they lean not to their own wiſdome, but ſo much the more that any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f us have wiſdome, and Underſtanding, Memory, and ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike naturall parts, above other, ſo much the more let us be watchfull and carefull over our ſelves, as knowing that the<note n="h" place="margin">Rom. 8.7.</note> 
+               <hi>Wiſdome of the fleſh is enmity against God,</hi> and is ready to butt a<g ref="char:EOLhyphen"/>gainſt the Spirit. And now to draw to a concluſion of all in the words of the Prophet,<note n="i" place="margin">Eſay 44.25.</note> 
+               <hi>The Lord frustrateth the tokens of
+<pb facs="tcp:40978:5" rendition="simple:additions"/>the lyars, and maketh the Diviners mad, turneth wiſe men back<g ref="char:EOLhyphen"/>ward, and maketh their knowledge fooliſhneſs.</hi>
+            </p>
+            <p>If any ſhall except againſt the matter for the rudeneſs of it, as that it is without form or learning, all ſuch are to know, that it is but ſuitable to the whole argument, and that if it ſhould be otherwiſe, I ſhould condemn that in practiſe, which I juſtifie in words, and ſo make my ſelf a Treſpaſſer. Thus I commit this my labour, with all thoſe that out of love to the truth ſhall ſeek in<g ref="char:EOLhyphen"/>formation in this matter, to the bleſſing of the moſt High, and remain an unfaigned well-willer of all them that love the <hi>Lord Jeſus</hi> in ſincerity. The 25. day of the firſt moneth, 1639.</p>
+            <lg>
+               <l>WHat <hi>How?</hi> how now? hath <hi>How</hi> ſuch learning found?</l>
+               <l>To throw Arts curious Image to the ground:</l>
+               <l>
+                  <hi>Cambridge</hi> and <hi>Oxford,</hi> may their glory now,</l>
+               <l>Vail to a <hi>Cobler,</hi> if they know but <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w:</hi>
+               </l>
+               <l>Though big with Art, they cannot over-top</l>
+               <l>The <hi>Spirits teaching</hi> in a <hi>Coblers ſhop.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Reader,</hi> if thou an humane Artiſt be,</l>
+               <l>Let Humane Learning be no Judge for thee:</l>
+               <l>Lay down thine Arts; then try this <hi>Coblers end,</hi>
+               </l>
+               <l>And ſee if it be by the Spirit pen'd.</l>
+               <l>Mean time adue, ye Arts and Artiſts all,</l>
+               <l>The <hi>Spirits teaching</hi> may attend the <hi>Aul:</hi>
+               </l>
+               <l>And thou brave <hi>Cobler,</hi> blow another blaſt</l>
+               <l>Upon their learning, though thou blow thy <hi>LAST.</hi>
+               </l>
+            </lg>
+            <bibl>
+               <hi>R. O.</hi>
+            </bibl>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40978:5"/>
+            <head>THE SVFFICIENCY OF THE SPIRITS TEACHING WITHOUT <hi>H<g ref="char:V">Ʋ</g>MANE LEARING.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>The Text, 2 PETER 3.16.</hi>
+                  </bibl>
+                  <p>As one that in all his Epiſtles ſpeaks of theſe things, in which ar ſome things hard to be underſtood, which they that are unlearned and unſtable wreſt, as they do alſo the other Scriptures unto their own deſtruction.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words, that I am<note n="*" place="margin">By <hi>J.G.</hi> and <hi>S.B.</hi> Miniſters of <hi>London.</hi>
+               </note> allotted to ſpeak from at this time, have reſpect, as it ſhould ſeem, to ſuch things as the Apoſtle had ſpoken of before, which things ſeem to me to be thoſe that are contained from the begin<g ref="char:EOLhyphen"/>ning of the ſecond Chapter, to the end of the 13. verſe of this third Chapter, and the 14. verſe contains <hi>Peters</hi> exhortation, ſtrengthened in the 15. verſe, by his Brother <hi>Pauls</hi> writings, who in all his Epiſtles ſpeaks of theſe things, as of the<note n="†" place="margin">Chriſt ſecond coming menti<g ref="char:EOLhyphen"/>oned in all <hi>Pauls</hi> Epiſtles.</note> 
+               <hi>com<g ref="char:EOLhyphen"/>ing of the Lord Jeſus,</hi> and other things, ſuch as are herein contained, among the which (that is) <hi>Pauls</hi> writings in his Epiſtles, ſome things were hard to be underſtood, and ſo indeed was the <hi>coming of Christ Ieſus,</hi> which it ſhould ſeem was hard of them to be underſood, and that appears by his earneſt w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iting to the<note n="a" place="margin">2 Theſ. 2. <hi>at the beginning.</hi>
+               </note> 
+               <hi>Theſſalonians,</hi> where he exhorts them, <hi>That they ſhould not ſuddenly be moved, neither by Word, nor Epiſtle. as it were from him, as if the day of Chriſt were at hand, for there were many things to be fulfilled first, as a departure from the
+<pb facs="tcp:40978:6"/>Faith,</hi> the riſing up, the perfection and the conſumption of the <hi>Man of Sin;</hi> and this it ſhould ſeem, though he had told them of it before, yet to them it was hard to be underſtood, which had the true learning here meant, which things they that were unlearned and unſtalbe perverted, as they did other Scri<g ref="char:EOLhyphen"/>ptures, to their own <hi>deſtruction;</hi> therefore the great thing here to be minded, is to find out what this <hi>learning</hi> is that <hi>Peter</hi> here intends. And ſecondly, who they be that are the <hi>unlearned ones,</hi> and by that we ſhall eaſily find who they be that are the <hi>perverters</hi> of the Scriptures to their own <hi>deſtruction.</hi> For this end therefore I will conſider what this <hi>learning is not,</hi> and then what <hi>it is.</hi>
+            </p>
+            <p>
+               <note place="margin">What learning it is not.</note>
+               <hi>It is not Humane Learning:</hi> That I may not be miſconceived about it, I will here lay down my underſtanding in it; and by <hi>Humane Learning</hi> I do not mind the knowledg and underſtand<g ref="char:EOLhyphen"/>ing of our own <hi>language,</hi> which every man, of what Tongue ſoever he be, might in ſome meaſure be taught of another, as the Parents teach their Children, and they learn of them; of this there is a natural neceſſity, as the Apoſtle ſaith, <hi>How ſhall they believe in him of whom they have not heard?</hi> Now the hear<g ref="char:EOLhyphen"/>ing there mentioned,<note place="margin">Rom. 10.14.</note> muſt needs be a natural hearing, ſeeing it is ſet before Faith; and this hearing muſt needs be the under<g ref="char:EOLhyphen"/>ſtanding of the ſound of words ſpoken. Now thus <hi>Peter</hi> and <hi>John,</hi> and all the reſt, learned the fooliſh things ſpoken of, 1 <hi>Cor.</hi> 1.21. And thus I acknowledge that there is none but in ſome meaſure have this learning, and muſt of neceſſity have it, to underſtand Gods mind in an ordinary way: But by <hi>Humane Learning,</hi> all along in this matter, which I oppoſe, it is the knowledge of Arts and Sciences, divers Tongues, and much reading, and a perſiſting in theſe things, ſo as thereby to be made able to underſtand the <hi>mind</hi> of <hi>God</hi> in his Word; this is it that I condemn from the Word of Truth, for being that, by which any is made able ſpiritually to underſtand the <hi>mind</hi> of <hi>God,</hi> which the Apoſtle ſaith, cannot be attained to by <hi>the words which mans wiſdome teacheth;</hi> all which, theſe excellencies are ſaid to be:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. 2.13.</note> So that by <hi>Humane Learning,</hi> I do here under<g ref="char:EOLhyphen"/>ſtand, that whereby certain men do excell, and are far above and beyond other ordinary men; and in this ſenſe do I under<g ref="char:EOLhyphen"/>ſtand, that the Councel judged <hi>Peter</hi> and <hi>John to be no ſuch learn<g ref="char:EOLhyphen"/>ed men:</hi>
+               <note place="margin">Act. 4.13.</note> For we in common ſpeech do oppoſe a learned man
+<pb n="3" facs="tcp:40978:6"/>to one that otherwiſe can read and write in his own Tongue, though he do not underſtand the grounds of his own ſpeech, as the other man that is learned doth; as may appear by the Book called the <hi>Engliſh Schoolmaſter;</hi> and ſo ſuch learning do I not conceive to be here meant, which I conclude for theſe reaſons.</p>
+            <list>
+               <item>1. Becauſe that then <hi>Peter</hi> muſt of neceſſity condemn him<g ref="char:EOLhyphen"/>ſelf,<note place="margin">1 <hi>Reaſon.</hi>
+                  </note> for he was a man, that in the<note n="b" place="margin">Act. 4.13.</note> Councels knowledge was ſuch an <hi>unlearned man,</hi> and ſo muſt needs himſelf lie under that blame that he layes upon others; therefore <hi>Humane Learning</hi> is not here that which he intends.</item>
+               <item>2. Becauſe <hi>Humane Learning</hi> is a<note n="c" place="margin">Col. 2.8.</note> 
+                  <hi>rudiment</hi> of this world;<note place="margin">2 <hi>Reaſon.</hi>
+                  </note> hence it is that our Saviour acknowledgeth that his Myſteries <hi>were hid from the</hi>
+                  <note n="d" place="margin">Luk. 10.21.</note> 
+                  <hi>learned;</hi> but they were not hid from his Diſciples, <hi>For unto them it was</hi>
+                  <note n="e" place="margin">Mar. 13. Col. 2.8.</note> 
+                  <hi>given to know the myſteries of the Kingdome: And the rudiments of this world are not after Chriſt,</hi> the Apoſtle tells us; therefore <hi>Humane Learning</hi> cannot be it that <hi>Peter</hi> here minds.</item>
+               <item>3. <hi>Becauſe the</hi>
+                  <note n="*" place="margin">Or carnal.</note> 
+                  <hi>natural man cannot</hi>
+                  <note n="f" place="margin">1 Cor. 2.14.</note> 
+                  <hi>perceive the things of God;</hi>
+                  <note place="margin">3 <hi>Reaſon.</hi>
+                  </note> but a meer natural man, may be a great worldly learned man, as were the <hi>Aegyptians,</hi> and <hi>Babylonians,</hi> and as are many of the <hi>Romiſh</hi> Prieſts and Jefuits; therefore for this cauſe, that is not the learning here meant.</item>
+               <item>4. Becauſe ſuch of Gods Servants,<note place="margin">4 <hi>Reaſon.</hi>
+                  </note> as have had ſuch kind of learning, when as they came to know <hi>Christ,</hi> they forſook it all: As <hi>Moſes,</hi> when he came to age, <hi>though he was</hi>
+                  <note n="g" place="margin">Act. 7.32.</note> 
+                  <hi>learned in all the wiſdome of the Aegyptians, yet by Faith he forſook all the treaſures of Aegypt;</hi> and this being one of <hi>Aegypts treaſures,</hi> he forſook this alſo, for when he ſaith <hi>treaſures,</hi> there is none ex<g ref="char:EOLhyphen"/>cepted; therefore in as much as <hi>learning</hi> was one, as well as <hi>riches</hi> and <hi>honours,</hi> he forſook that alſo, as ſeeing by Faith a better <hi>treaſure</hi> in the worſt condition among the people of God, then in the beſt condition in the world, ſuppoſe it be <hi>learning.</hi>
+               </item>
+            </list>
+            <p>The like is to be ſeen in <hi>Paul, who counted all things loſſe and dung that he might win Christ, even the righteouſneſſe of the Law it ſelf,</hi> which is far beyond all this, and all this he did, that he might know him: Wherein the Apoſtle gives me to underſtand, that all ſuch things were but hinderances to keep him from the <hi>knowledge of Chriſt to ſalvation,</hi> which is it that here I mind alſo; therefore likewiſe this is not the <hi>learning</hi> here meant, ſee<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:40978:7"/>it was rejected of them, therefore it was no help nor fur<g ref="char:EOLhyphen"/>therance to them to know Chriſt by, but lets and hinderances, and ſo much appears by thoſe Converts in <hi>Acts</hi> 19.18, 19. <hi>Who when they believed, are ſaid, ſuch of them as uſed curious Arts, to burn their Books,</hi>
+               <note n="*" place="margin">The price whereof was fifty thouſand pieces of ſil<g ref="char:EOLhyphen"/>ver.</note> declaring that how they had met with learning of far greater worth, then their curious Arts, and therefore now they burn their Books, declaring that now they had no more need of them; and ſo I conclude, that ſuch as this was not the learning here meant.</p>
+            <p>
+               <note place="margin">What learning it is.</note>
+               <hi>I now come to manifeſt what learning it is the Apostle here in<g ref="char:EOLhyphen"/>tended.</hi>
+            </p>
+            <p>Now the learning here intended by the Apoſtle, it is as I underſtand, that <hi>ſound knowledge</hi> and <hi>ſure information</hi> that e<g ref="char:EOLhyphen"/>very Chriſtian hath in <hi>Ieſus Christ,</hi> whereby he is ſo deeply rooted,<note place="margin">Col. 2.7.</note> and ſo ſurely grafted into him by Faith, as that he abides unmoveably ſetled in him,<note place="margin">Epheſ 3.17, 18. Pet. 2.6.</note> as thereby he abides ſtable in the ſure knowledge and underſtanding of the <hi>Word of C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſt;</hi> and ſo much here methinks the Apoſtl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gives us to underſtand, how that the <hi>unlearned,</hi> they be <hi>unstable;</hi> then on the contra<g ref="char:EOLhyphen"/>ry, the <hi>learned</hi> they are <hi>ſtable,</hi> believing, and being laid on the true foundation, they ſhall never be confounded, or aſhamed. Now ſuch as theſe are, that are <hi>learned,</hi> as <hi>the truth is in Jeſus,</hi> theſe may well ſay to the greateſt wordly learned ones, as <hi>Philip</hi> ſaid to the <hi>Eunuch, <g ref="char:V">Ʋ</g>nderſtandeſt thou what thou readeſt?</hi> and not only ſo, but ſuch may teach them the underſtanding of the myſtery, ſaying, Theſe are taught and inſtructed by the Teachings of the Spirit of God, agreeable to theſe Scriptures:<note n="b" place="margin">1 Cor. 2.10.</note> 
+               <hi>That it hath not entred into the heart of man to conceive of that which God by his Spirit</hi> (which ſearcheth the deep things of God) <hi>hath revealed unto us.</hi> And this the Apoſtle further ex<g ref="char:EOLhyphen"/>plains, <hi>That as no man knows the things of a man, ſave the ſpirit of a man which is in him; ſo the things of God knows no man,</hi> (no not a worldly learned man) <hi>but by the Spirit of God:</hi> And ſo he goes on, to difference the Spirit of the World<note n="*" place="margin">A difference between the teaching of Gods Spirit, and the worlds artificial Tongues.</note> from Gods Spirit, and ſhews, that that is it whereby the things of God are known, and alſo manifeſted to others; ſo that all the things of God, both for matter and manner, flow from the wiſdome of Gods Spirit, and not what mans wiſdome teacheth, which is to compare ſpirituall things and carnall things together, as <hi>Tongues</hi> and <hi>Arts,</hi> and ſuch like; but
+<pb n="5" facs="tcp:40978:7"/>
+               <hi>Gods Spirit teacheth us to compare ſpirituall things with ſpi<g ref="char:EOLhyphen"/>rituall things;</hi> and ſo he goes on, and declares, that onely ſuch that are taught by the Spirit, are capable of true diſcern<g ref="char:EOLhyphen"/>ing of ſpirituall things, without being juſtly condemned of any, as truly having the mind of Chriſt, rightly and truly knowing the things that are of God; and with this agrees the witneſſe of <hi>John</hi>
+               <note n="i" place="margin">1 John 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6, 27.</note> ſaying, <hi>Theſe things have I written unto you concerning them that deceive you;</hi> whereby it appears they had deceivers about them, and thoſe things were writ<g ref="char:EOLhyphen"/>ten concerning ſuch: But ſaith the Apoſtle in oppoſition to their <hi>deceivings,</hi> ye have received the <hi>Anointing</hi> of him that dwells in you, and this anointing that they had received doth he oppoſe to their <hi>deceiving,</hi> as being able throughly to teach them ſo, <hi>as that they needed not that any man teach them, ſave as that anointing taught them:</hi> Then ſeeing that that <hi>anointing</hi> never did teach them ſuch <hi>Tongues</hi> or <hi>Arts,</hi> as were humane, therefore the Saints by the Apoſtles grant had not need of any ſuch learning, and yet this anointing taught all truth and obe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in it alſo. And yet, further<note n="k" place="margin">John 16.7. <hi>with</hi> 13.</note> our Saviour <hi>himſelfe concludes this point, ſhewing, that when he hath ſent the Comforter, the Spirit of Truth to them, that then he ſhall lead them into all truth.</hi> Whence I do conclude, that for the Diſciples know<g ref="char:EOLhyphen"/>ledge of the truth, there was no more neceſſary, according to the <hi>mind</hi> of him that was <hi>Truth,</hi> but the <hi>Spirit</hi> of <hi>God</hi> to lead them into all truth without all errour, teaching by no <hi>humane means;</hi> the reaſon why is rendred, becauſe it is ſufficient, and that is, becauſe it ſpeaks from the Father, agreeable to that of our Saviour taken from the Prophet, <hi>That</hi>
+               <note n="l" place="margin">John 6.45.</note> 
+               <hi>we ſhall be all taught of God; and ſo indeed being taught of the Spirit, we are taught of the Father and the Son alſo,</hi> which are all one; and ſo our <hi>learn<g ref="char:EOLhyphen"/>ing</hi> comes to us, being taught of the Father, Son, and Spirit, for all our Inſtructers and Councellors, and this is all the <hi>lear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing</hi> that we need, to know the things that are of God by, agreeable to his will. So from theſe words thus interpreted, the concluſi<g ref="char:EOLhyphen"/>on comes to this.</p>
+            <p>
+               <hi>That ſuch as are tought by the</hi> Spirit <hi>of</hi> God,<note place="margin">Propoſition.</note> 
+               <hi>deſtitute of</hi> Hu<g ref="char:EOLhyphen"/>mane Learning, <hi>are the learned ones, that truly underſtand the</hi> Scriptures, <hi>according to</hi> Peters <hi>mind.</hi>
+            </p>
+            <p>I ſay, ſuch as are taught by the Spirit, without <hi>Humane Learning,</hi> are ſuch perſons as rightly underſtand the Word:
+<pb n="6" facs="tcp:40978:8"/>And this (methinks) the whole Council of <hi>Jeruſalem,</hi> as wicked as they were, did in effect conclude,<note n="m" place="margin">Act. 4.13, 14.</note> conſidering <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> and <hi>Iohn,</hi> though unlearned men, yet they knew they had been with <hi>Jeſus</hi> by their boldneſſe, and ſo they had nothing to ſay againſt it; and yet though men ſhould oppoſe it, <hi>Chriſt Ieſus</hi> our Lord<note n="n" place="margin">Luke 10.21. <hi>to</hi> 24.</note> juſtifies it, with great thankfulneſſe to his Father, <hi>that having hid theſe things from the wiſe and prudent, he had revealed them to Babes:</hi> Now that revealing muſt needs be by the Spirit, according to that, 1 <hi>Cor.</hi> 2.10. And on this man<g ref="char:EOLhyphen"/>ner is it that our Lord comforts his Diſciples, telling them, that <hi>all things were given him of his Father to reveal;</hi> and ſo in that regard he tells them, that <hi>bleſſed are the eyes that ſee that that they ſaw,</hi> which was, as the Apoſtle ſaith, <hi>God manifeſted in the fleſh, which many wiſe men and Kings deſired to ſee, but could not ſee it;</hi> and ſo that was now made manifeſt to them, which before was hid from wiſe men and Scribes, and ſo was at the preſent alſo; for few of the wiſe could attain to the knowledge of him and his doctrine, as they did. Now with this alſo agrees what our<note n="o" place="margin">Mat. 22.23.29.</note> Saviour affirmes to the <hi>Sadduces,</hi> who by reaſon of their wiſdome and learning thought to have intangled him, he tells them, <hi>that they erred, not knowing the Scriptures,</hi> for all their great learning being deſtitute of Gods Spirit. Now by theſe Scriptures, this point being thus confirmed, good reaſon alſo may by Gods Word be brought for the further juſtifying of it: As</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> Firſt, becauſe it is the good pleaſure of God to place our <hi>Salvation</hi> in great contempt and enmity to mans <hi>wiſdome:</hi> Hence is it that the Apoſtle ſaith, that he <hi>preached Chriſt cruci<g ref="char:EOLhyphen"/>fied to the Jews a</hi>
+               <note n="p" place="margin">1 Cor. 1.23, 24.</note> 
+               <hi>ſtumbling block, and to the Grecians fooliſhneſſe:</hi> For the Jews, we read, in great contempt refuſed him; as <hi>Pi<g ref="char:EOLhyphen"/>late</hi> bid them behold your<note n="q" place="margin">John 19.19.21.</note> King, preſently they cry, <hi>Away with him, away with him, crucifie him.</hi> And ſo when <hi>Pilate</hi> had wrote on the Croſſe, that he was King of the Jews, they took it as a great prejudice to them, and therefore wiſhed him to write, <hi>That he ſaid he was King of the</hi> Jews.</p>
+            <p>And ſo as <hi>Peter</hi> tells them in Acts 3. <hi>They denied him, and de<g ref="char:EOLhyphen"/>ſired a murtherer to be given them:</hi> And to this agreed the Gen<g ref="char:EOLhyphen"/>tiles, for they had their hands alſo in his death: And we find that when as <hi>Paul</hi> preached him at <hi>Athens,</hi>
+               <note place="margin">Act. 17.18.23.</note> that then this ſay<g ref="char:EOLhyphen"/>ing of the Apoſtle here is made good, both of Jews and Gen<g ref="char:EOLhyphen"/>tiles;
+<pb n="7" facs="tcp:40978:9" rendition="simple:additions"/>and indeed they both agree to hang him, betwixt heaven and earth, as being in their eſteem worthy of neither, and yet even in this crucified <hi>Jeſus,</hi> lies contained the ſalvation of<note n="r" place="margin">Act. 4.12.</note> all (both Jews and Gentiles) that are ſaved; and in this deſpiſed <hi>Jeſus,</hi> are all to rejoyce with the<note n="ſ" place="margin">1 Cor. 2.2. Gal. 6.14.</note> Apoſtle to ſalvation; for in him, thus diſhonourable and unmeet in mans wiſdome, <hi>lye hid all our heavenly</hi>
+               <note n="t" place="margin">Col. 2.3. 1 <hi>Cor.</hi> 1.20.</note> 
+               <hi>treaſures of wiſdome, righteouſneſſe, ſanctifica<g ref="char:EOLhyphen"/>tion and redemption; for he is the wiſdome of God, and power of God,</hi> 1 Cor. 1.24.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> Another reaſon, why ſuch as have Gods Spirit, deſtitute of <hi>Humane Learning,</hi> come thus to know Gods mind, is, That (as the<note n="u" place="margin">1 Cor. 1.29.</note> Apoſtle declares) <hi>no fleſh ſhould rejoyce in Gods preſence;</hi> now this learning is but fleſhly and carnall: Now the Apoſtles adviſe is, though we had known<note n="x" place="margin">2 Cor. 5.16.</note> 
+               <hi>Chriſt Ieſus</hi> after the fleſh, yet now coming to be after God, we ſhould henceforth know him ſo no more; and here is a ſufficient reaſon, becauſe know<g ref="char:EOLhyphen"/>ledge is ſubject to puffe us up, as ſaith the<note n="y" place="margin">1 Cor. 2.8.</note> Apoſtle: When as love, and the learning of the Spirit, keeps us low in our own eyes, and cauſeth, as <hi>Solomon</hi> ſaith, our minds to be good, ma<g ref="char:EOLhyphen"/>king us ſuitable to the Apoſtles exhortations,<note n="z" place="margin">Rom. 12.16.</note> ſaying, <hi>Be not high-minded, but make your ſelves equall to them of the lower ſort;</hi> be not wiſe in your ſelves, but<note n="a" place="margin">Phil. 2.3.</note> 
+               <hi>let every man eſteem others bet<g ref="char:EOLhyphen"/>ter then himſelf;</hi> and <hi>if any glory, let him</hi>
+               <note n="b" place="margin">1 Cor. 1.31.</note> 
+               <note n="*" place="margin">Here glory<g ref="char:EOLhyphen"/>ing in the Lord is oppoſed to vain-glory, or haughtineſſe.</note> 
+               <hi>glory in the Lord.</hi> Now he that hath theſe things, as Humane Learning and Wiſdom more then another, let him weigh and conſider duly with him<g ref="char:EOLhyphen"/>ſelf, whether he doth not think, and conclude, that he in regard of theſe things, is not more to be reſpected, then they that are without them: Now then<note n="c" place="margin">1 Cor 5.</note> this rejoycing is not good, for it is a rejoycing in the fleſh, and ſuitable to<note n="d" place="margin">Rom. 4.</note> works, and ſo not of God; and yet ſo is it, that for our hearts we cannot but think better of our ſelves for theſe things, then of others with<g ref="char:EOLhyphen"/>out them; and ſo we may ſee the Apoſtles words fulfill'd, that the <hi>wiſdome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the</hi>
+               <note n="e" place="margin">Rom. 8.3.</note> 
+               <hi>fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh,</hi> that is, whatſoever the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh is excel<g ref="char:EOLhyphen"/>lent in, it is <hi>enmity to God,</hi> it is not ſubject to the Law of God, neither indeed can be.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> Another cauſe, why the <hi>Spirits teaching is ſufficient without Humane Learning,</hi> is, becauſe, as the Apoſtle ſaith, <hi>We are com<g ref="char:EOLhyphen"/>pleat in him,</hi> that is, perfect and full in him; and this he ſtreng<g ref="char:EOLhyphen"/>thens yet further from this conſideration, that he is the Head of all Principalities and Powers; ſo that if there were any thing
+<pb n="8" facs="tcp:40978:9"/>elſe to make us compleat, he being the Head of all, we ſhould have it; but he hath given nothing but his<note n="f" place="margin">1 Cor. 12.7.</note> 
+               <hi>Spirit to profit withal,</hi> therefore we are compleat by it alone; and therefore is it that <hi>Paul</hi>
+               <note n="g" place="margin">1 Tim. 6.20.21.</note> exhorts <hi>Timothy</hi> to keep that which was committed to him, which was the Faith taught by the Word and Spirit, and wiſheth him to avoid and beware of Science, that is, all know<g ref="char:EOLhyphen"/>ledge naturall, which is comprehended under<note n="h" place="margin">Col. 2.8.</note> 
+               <hi>Phyloſophy,</hi> learned, prophane bablings, and oppoſitions to the Faith of Chriſt; and ſo much is by the Apoſtle there declared, ſaying, <hi>Which while ſome have luſted after, they have erred from the Faith:</hi> So that it is moſt plain and clear, that theſe things are ſo far from perfecting men, or helping of them in the know<g ref="char:EOLhyphen"/>ledge of the truth, as that they hinder, and cauſe ſuch as pro<g ref="char:EOLhyphen"/>feſſe them to erre from the Faith: Even all the ſeven Liberall Sciences, for all is but Science, and all this Science or know<g ref="char:EOLhyphen"/>ledge is falſly ſaid to be of uſe in the Goſpell; prophane and vain bablings are far better names for them, and oppoſitions, according to <hi>Pauls</hi> teaching; and he ſaith of himſelf, <hi>I think I have the Spirit of God,</hi> and ſo indeed he had without doubt, and ſo our ground remains good, <hi>that we are compleat in Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>4</label> Another conſideration confirming this concluſion, is from the Apoſtles<note n="i" place="margin">1 Cor. 3.18.</note> adviſe, <hi>Let no man deceive himſelf;</hi> and that in the true way of attaining wiſdome, he declares what it is, in theſe words, <hi>That ſuch a one is to become a fool, that he may be wiſe</hi> and how is that, but by knowing that indeed there is no<g ref="char:EOLhyphen"/>thing in all mans wiſdome, to be any whit helpfull, but hurtfull to him, in attaining and comprehending the wiſdome of God in Chriſt: Now what is more fooliſh to a man, then to know that there is nothing that all the wits of man can reach unto, that can benefit him? and if nothing, then not the thing in queſtion, but that it muſt needs be, that we muſt be fools to it; and what is the true mark of a fool, but to be ignorant, and without knowledge? therefore we call them fools in the world, and ſo is it here: The beſt way for a man to deceive himſelf, is to know nothing of this <hi>Learning,</hi> nor any other fleſhly excel<g ref="char:EOLhyphen"/>lency, that ſo he may learn true wiſdome; and the Apoſtle doth (methinks) ſufficiently confirme this advice of his againſt all exceptions, <hi>The Lord knows</hi> (ſaith he) <hi>that the thoughts of m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be vain:</hi> Men think highly of their own conceits this way, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:40978:9"/>if no man will take this his counſell for <hi>wiſdome</hi> in this kinde, yet the <hi>Lord</hi> concludes the <hi>truth</hi> of it, and he knows the <hi>thoughts</hi> of men to be vaine, that thinke <hi>Humane Learning</hi> ſome help: but let them thinke what they will, the <hi>Lord</hi> is againſt them in it, for hee knows that it is ſure that they are deceived, <hi>for his thoughts be not as mans thoughts.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>5</label> Now another cauſe that confirmes mee in this Concluſi<g ref="char:EOLhyphen"/>on, is, becauſe that whereſoever the Apoſtle honours the <hi>Spi<g ref="char:EOLhyphen"/>rits teaching,</hi> and preferres it, uſually he at the ſame time caſts contempt upon this <hi>learning,</hi> as is to be ſeen in many places;<note n="k" place="margin">1 Cor. 1.17.18.</note> 
+               <hi>Chriſt</hi> (ſaith he) <hi>ſent me to preach the Goſpell, not with the wiſdome of words, leſt I ſhould make the croſſe of Chriſt, or the Goſpel of Chriſt of none effect,</hi> where we ſee, that for good reaſon he rejects the very wiſdome of words in preach<g ref="char:EOLhyphen"/>ing of the Goſpel, and that is, leſt if he ſhould have done otherwiſe, he ſhould have made it of no effect, becauſe he was to declare the <hi>ſincere word,</hi> without the leaſt mingling; as if he ſhould ſay, ſuch manner of preaching is a fooliſh preaching, but it is ſo onely <hi>to them that periſh, but to ſuch as are ſaved it is the power of God,</hi> without what man expects: and therefore he<note n="l" place="margin">2 Cor. 11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2, 3.</note> ſaith againe, <hi>he was jealous over them with a godly jealouſie,</hi> for he had pre<g ref="char:EOLhyphen"/>pared them a pure <hi>Virgin for Chriſt:</hi> but, ſaith he, <hi>I fear, that as the Serpent beguiled</hi> Eve, but how? <hi>through his ſubtil<g ref="char:EOLhyphen"/>tie, ſo your min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſhould be corrupt,</hi> that is, putrified, and infe<g ref="char:EOLhyphen"/>cted from the <hi>ſinceritie</hi> that is in <hi>Chriſt:</hi> This we ſee was <hi>Pauls</hi> feare, that while he was abſent their minds ſhould be with<g ref="char:EOLhyphen"/>drawn from the fooliſhneſs of the Goſpel, and the ſimplici<g ref="char:EOLhyphen"/>tie, ſinceritie, and truth thereof, and this they ſhould be withdrawn from by the ſubtiltie of Satan that old Serpent, in his inſtruments the falſe Teachers; this he feares, becauſe of their fleſhlineſſe that was in them, which was ready to yeeld to their wiles by reaſon of their ſubtiltie that way, for by faire words and flatteries they deceived the<note n="m" place="margin">Ro. 16.18.</note> 
+               <hi>hearts</hi> of the ſimple, and with this their craftineſſe they lie in wait to<note n="n" place="margin">Eph. 4.14.</note> deceive; thus contemptuouſly doth <hi>Paul</hi> ſpeake of thoſe things, in oppoſition to the true <hi>learning,</hi> as is further to be ſeen in many places, of which I will name one more, and that from the Apoſtle <hi>Peter</hi> in his ſecond Epiſtle, Chap. 1. Verſe 16. <hi>For we, ſaith he, followed not deceiveable Fables,
+<pb n="10" facs="tcp:40978:10"/>when we opened unto you the power and coming of our Lord Ieſus.</hi> Now ſuch names as theſe are doth the Apoſtle chuſe to caſt on mans excellencies, as in divers other<note n="o" place="margin">1 Tim. 1.4. <hi>and</hi> 4.7. Tit. 3.9.</note> places, which declare what contempt is caſt on ſuch learning in oppoſition to the Spi<g ref="char:EOLhyphen"/>rit of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>6</label> Now one thing more,which I conceive obſerveable for the proof of this point in hand, is drawn from the 2 <hi>Cor.</hi> 2.10. <hi>The ſpirit ſearches the deep things of God,</hi> and verſe 14. <hi>The ſpi<g ref="char:EOLhyphen"/>ritual man diſcerns all things;</hi> if then the ſpirit ſearcheth the deep things of God, and that diſcerns all things, what need we more? And with this agrees the Apoſtle <hi>John,</hi> ſaying, <hi>And ye need not that any man teach you, ſave as that Anointing teach<g ref="char:EOLhyphen"/>eth you.</hi>
+               <note n="p" place="margin">1 Iohn 2.27.</note> Then I conclude, <hi>That we need not that any man teach us, not the Maſter, nor any of his followers, for the Diſciples of</hi> Jeſus Chriſt <hi>do learn (as the truth is) in him, and of him, and they have received the Spirit of God, that they might know the things of God;</hi> therefore we may well be without any mans learning, and have no need of it; and ſo the point is clear and plain. <hi>That ſuch as are taught by Gods Spirit without that learn<g ref="char:EOLhyphen"/>ing, do truly underſtand the Word.</hi>
+            </p>
+            <p>I judge it neceſſary alſo to be underſtood of the Reader, what I do underſtand by <hi>Humane Wiſdome,</hi> as well as <hi>Humane Learning:</hi> by <hi>Humane Wiſdome,</hi> I do underſtand whatſoever ap<g ref="char:EOLhyphen"/>pears excellent in mans underſtanding, as he is left without Gods Spirits teaching, this the more excellent it is to him that is carnall, ſo much the worſe it is; therefore it is ſaid of ſuch by the Apoſtle, <hi>That when as they profeſſed themſelves to be wiſe, then they became fools.</hi>
+               <note place="margin">Rom. 1.21. Mat. 6.23.</note> And ſaith our Saviour, <hi>If the light which is in this</hi> (which I mind to be meant of mens underſtanding and wiſdome) <hi>be darkneſſe, how great is that darkneſſe?</hi> So that by mans wiſdome, I underſtand, <hi>whatſoever ſeems excellent to him with which he would honour God withall, that he is not the Author of, as eloquence, and fair ſpeeches,</hi> and any thing in tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way, ſuch as the Greeks ſought after, as men do now adays<g ref="char:punc">▪</g> this I do the rather differ from <hi>Humane Learning,</hi>
+               <note place="margin">1 Cor. 1.22.</note> becauſe i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeems to me that the Scripture differenceth them, <hi>Acts</hi> 22. and the difference rightly underſtood, may prevent juſt exception<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and give light to the right underſtanding of the whole matter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for this wiſdome is made by the Apoſtle,<note place="margin">Rom. 6.7.</note> and that rightly, to <hi>be enmity to the Spirit of God,</hi> and impoſſible to ſubmit to it, it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo contrary.</p>
+            <pb n="11" facs="tcp:40978:10"/>
+            <p>Now follows to be anſwered ſuch Objections as are made againſt it: As firſt,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> That of <hi>Paul,</hi> in 1 Tim. 3.6. <hi>That a Biſhop muſt be no young Scholar, leſt he being puffed up, fall into the condemnation of the Devil.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Scholarſhip <hi>Paul</hi> means here,<hi>is the teaching of the</hi> Spi<g ref="char:EOLhyphen"/>rit, <hi>whereby the man is made ſound in the Faith;</hi> for that learning only will make men low in their own eyes, as is before declared, and he that is unſound in the faith, will ever be found the moſt lofty, and puffed up in his own conceit, and ſo be rejected of God, as the Devil was, though he was in heaven with God, yet being puffed up, he was rejected of God, and ſo<note n="q" place="margin">2 Pet. 2.</note> 
+               <hi>caſt down to hell;</hi> to which example <hi>Paul</hi> here alludes, as I conceive, and that rightly, for a Biſhop in the Church, is in reſpect of his ſpi<g ref="char:EOLhyphen"/>ritual ſtate and place, in favour and <hi>fellowſhip with God, and that in heaven,</hi> as the whole book of the <hi>Revelation</hi> deſcribes the Church to be. Now ſuch as by the Church ſhould be choſen to that ſtate, being young Scholars, that is, <hi>not ſoundly taught in the truth by the Spirit,</hi> he is in great danger; the more other learning that he hath, ſo much the more to be puffed up. This I believe was the cauſe of <hi>Diotrephes</hi>
+               <note n="r" place="margin">3 Ioh. 9.10.</note> 
+               <hi>pride,</hi> he wanted this Scholarſhip, and that cauſed him to ſeek the preheminence; and this, whatſoever our great Scholars think of themſelves, is the cauſe of the high conceits that they have of themſelves, and their knowledg and underſtanding above others that want their learning, even this, becauſe they be but young Scholars (if that) in the School of Chriſt; and thence is it they are ſo puft up with the vain-glory of their fleſhly learning, that they think that none that are not as themſelves are, fit to be their fellows, and ſo know not how <hi>that they be wretched, poor, miſerable, blind, and naked;</hi> though they conceive themſelves <hi>to be rich, and have need of nothing,</hi> as did the<note n="ſ" place="margin">Rev. 3.17.</note> 
+               <hi>Laodiceans,</hi> and ſo indeed are <hi>fallen into the condemnation of the Devill,</hi> as being rejected of God, <hi>for he reſiſts the proud,</hi> and ſuch as are puft up, <hi>and gives grace to the</hi>
+               <note n="t" place="margin">1 Pet. 5.5.</note> 
+               <hi>humble, and ſuch as are low in their own eyes.</hi> Now whether theſe men <hi>humanly learned,</hi> be they <hi>that are puft up,</hi> or <hi>low in their own eyes,</hi> as <hi>mean as he that is unlearned,</hi> I leave to all that have eyes to ſee and look into it, and ſo to judge whe<g ref="char:EOLhyphen"/>ther they are not yet to learn <hi>Pauls</hi> Scholarſhip.</p>
+            <p>Further, I ſay, it is here to be minded, that if it ſhould be
+<pb n="12" facs="tcp:40978:11"/>
+               <hi>Humane Learning</hi> that is here meant, then <hi>Paul</hi> ſhould teach <hi>Timothy</hi> for to teach the Church to chuſe ſuch Scholars, as had more learning then had their Maſter <hi>Chriſt Jeſus:</hi> Now this, ſome ſay, is blaſphemy, and threaten me ſorely for it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer them, that conſidering <hi>Chriſt Jeſus</hi> as <hi>God,</hi> accord<g ref="char:EOLhyphen"/>ing to the <hi>Divine Nature, ſo he is God over all, and ſo gives all things, Acts</hi> 17.25. and ſo he is <hi>the</hi>
+               <note n="u" place="margin">Jam. 1.17.</note> 
+               <hi>giver of every good gift,</hi> and ſo <hi>Humane Learning</hi> and <hi>Wiſdome are</hi>
+               <note n="x" place="margin">Ro. 11.37.</note> 
+               <hi>of him;</hi> and ſo much (but that men are maliciouſly bent) they might diſcern, that I in this <hi>argument</hi> had not to deal with him, as <hi>God,</hi> but as the <hi>Minister of God, adminiſtring for the good of his body,</hi> according to that, <hi>Luke</hi> 24.18.<note n="*" place="margin">What learn<g ref="char:EOLhyphen"/>ing Chriſt had.</note> where he ſaith, <hi>The Spirit of the Lord hath Anointed me that I ſhould Mi<g ref="char:EOLhyphen"/>nister, &amp;c.</hi> and ſo in this argument he is by the Apoſtle ſet forth as a Man,<note n="y" place="margin">Act. 2.22.</note> 
+               <hi>Jeſus of Nazareth, a man approved of God;</hi> and ſuch a man ſo adminiſtring, I do ſtill affirme, and that with great confidence, that he was unlearned in this conſide<g ref="char:EOLhyphen"/>ration, and without the learning that we ſpeak of; and ſo the Tongue of the<note n="z" place="margin">Iſa. 5.1.</note> learned that was ſaid to be given him, is<note n="a" place="margin">Iſa. 61.1.</note> interpreted by the ſame Prophet, to be the <hi>Spirit of God;</hi> For, ſaith he, <hi>The Spirit of the Lord hath Anointed me that I ſhould preach;</hi> from whence is plain, <hi>That Chriſt Jeſus was learned of the Father to preach by the Spirit,</hi>
+               <note place="margin">See further of this in the E<g ref="char:EOLhyphen"/>piſtle noted with ()</note> 
+               <hi>without Humane Learning,</hi> and ſo much is plain to them that can believe the Scri<g ref="char:EOLhyphen"/>ptures, from <hi>John</hi> 7.15. where the Jews admire, ſaying, <hi>How comes this man to know the Scriptures, ſeeing that he was never learned?</hi> From whence it is plain, that as he was a Man, he was unlearned in the letters of the Scriptures, though as God he knew all things, and by a <hi>Divine Power,</hi> not <hi>Humane Learning,</hi> ſo much as his own naturall Tongue by letter, as in the Syna<g ref="char:EOLhyphen"/>gogue he could take the Book and read;<note place="margin">Luke 4.17.</note> and this doubtleſſe was one cauſe why the Jews are ſaid to be aſtoniſhed at the hearing and ſeeing of him, as appeares, <hi>Matth.</hi> 13.54. &amp;c. <hi>Luke</hi> 4.22. ſo that from all this, my affirmation remains true, and good, <hi>that if Humane Learning ſhould be it that is there meant by the Apoſtle, then he was to teach the Servant to be above his Maſter,</hi> when as <hi>Chriſt Jeſus</hi> himſelf<note n="b" place="margin">Mat. 10.5.</note> ſaith, <hi>It is enough for the Diſciple to be as his Lord;</hi> and he being deſtitute of Hu<g ref="char:EOLhyphen"/>mane Learning, his Diſciples may well be without it alſo,
+<pb n="13" facs="tcp:40978:11"/>without any offence, and yet preach the Goſpell too. Now, if notwithſtanding all this, there be them that will take<note n="c" place="margin">Act. 6.11.</note> 
+               <hi>Ste<g ref="char:EOLhyphen"/>phens</hi> accuſers place, and ſtill accuſe me of blaſphemy, as they did him, <hi>&amp;c.</hi> though it may be they may ſay true words, as that I ſaid that <hi>Ieſus Chriſt was without Humane Learning,</hi> and ſo apply it to him as God, when as I ſpake of him as Man, they may there ſee themſelves ranked among the number of them that are called by the Spirit of God, <hi>Falſe Witneſſes,</hi> as walking in the ſteps of thoſe envious perſons,<note n="*" place="margin">Chief Prieſt chief in ſpil<g ref="char:EOLhyphen"/>ling innocent blood.</note> even ſuch as were al<g ref="char:EOLhyphen"/>wayes the Murtherers and Betrayers of <hi>Chriſt Ieſus</hi> and his <hi>Servants;</hi> and they that are ſuch, may be likened to them that being full of envy,<note n="d" place="margin">Act. 13.45.</note> 
+               <hi>ſpake againſt thoſe things that were ſpoken of</hi> Paul, <hi>contrarying them, and railing on them:</hi> Mark it, they denied what he taught, but diſproved it not, but ſpake againſt it, and railed on the perſon, and ſo left not, till they had been a means to expell them out of their Coaſts; ſo was he, and ſuch like meaſure is ſtill to be expected to befall ſuch as tread in his ſteps; but it is to be minded, that envious ones are the mo<g ref="char:EOLhyphen"/>vers of it; and ſo leaving of it, I come to another exception, which is,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> How ſuch as are <hi>unlearned,</hi> will be able to ſtop <hi>the mouths of Gain-ſayers,</hi> ſeeing the Apoſtle requires of a<note n="e" place="margin">Tit. 1.11.</note> 
+               <hi>Biſhop,</hi> that he ſhould be able ſo to do?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, that it is not the Apoſtles intent that the <hi>mouths of Gain-ſayers</hi> ſhould be ſtopped by the knowledge of Tongues and Arts, but that way that himſelf directs,<note n="*" place="margin">The way to ſtop Gain-ſay<g ref="char:EOLhyphen"/>ers mouths.</note> 1 <hi>Titus</hi> 9. which is by <hi>ſound Doctrine,</hi> or by <hi>wholeſome Doctrine;</hi> ſo then, to go to any other way then thus to ſtop their mouths, is both un<g ref="char:EOLhyphen"/>ſound, and an unwholeſome courſe; and it were far better in my judgment, and that according to <hi>Paul, and that their mouths ſhould be left open,</hi> then that they ſhould be ſtopt after that manner, and that it hath not profited them in the ſpirituall meaning of the word that have been exerciſed therein: So now it is high time, that we honouring the teaching of the Spirit, ſhould refuſe to meddle with ſuch as go another way to work, then by it, to declare Gods minde to us, becauſe it alone is ſufficient to <hi>ſtop the mouths of all Gain-ſayers.</hi>
+               <note n="f" place="margin">Act. 6.10.</note> 
+               <hi>They were not able to reſiſt the Spirit</hi> (not the Tongues and Arts) by which he ſpake, for he uſed none of them, <hi>for the weapons of our warfare are not carnall,</hi> and ſo are Tongues and Arts, and
+<pb n="14" facs="tcp:40978:12"/>ſuch like, <hi>but yet mighty,</hi> not by man, but through God, <hi>to</hi>
+               <note n="g" place="margin">2 Cor. 10.4.</note> 
+               <hi>caſt down holds;</hi> therefore this <hi>Weapon</hi> only is ſufficient to ſtop the mouth of all gain-ſayers, and for ſuch as think it not ſuffici<g ref="char:EOLhyphen"/>ent, much good let their <hi>Humane Learning</hi> do them, and the <hi>good Lord give me of his holy</hi> Spirit <hi>only to do this work:</hi> And ſo I come to the next exception, which is,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> That there was the uſe of <hi>Tongues</hi> in the Apoſtles times in the Churches, <hi>Acts</hi> 2. <hi>Acts</hi> 8. <hi>Acts</hi> 10. <hi>Acts</hi> 19. 1 <hi>Cor.</hi> 12. and 1 <hi>Cor.</hi> 14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This I grant was true; but there we find that they were the immediate gifts of God, freely given and beſtowed on them, as other ſpirituall gifts were, without their induſtry or paines, as appears in divers<note n="h" place="margin">Act. 2.2.8.27.10.44.19.6.</note> Scriptures: Now whereſoever ſuch gifts are to be found, them will I freely acknowledg, as being indeed ſuitable to the Goſpel, which brings to us freely all good gifts, without any labour or pains of ours, and therefore all is ſaid <hi>to be of gift, least any man ſhould boaſt:</hi> But if the <hi>Tongues</hi> that are pleaded for, are ſuch as are attained to by induſtry and paines taking of our own, then they better ſuit with <hi>works</hi> then <hi>grace,</hi> and ſo are more meet for<note n="*" place="margin">Arts for <hi>Ae<g ref="char:EOLhyphen"/>gypt</hi> and <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi>
+               </note> 
+               <hi>Aegypt</hi> and <hi>Babylon,</hi> then for the Church of Jeſus Chriſt,<note n="†" place="margin">Gracious gifts for the Church.</note> which comes by all her precious gifts <hi>gratis,</hi> and therefore ſuch as plead for theſe things, as ſuit<g ref="char:EOLhyphen"/>able to the Miniſters, become in effect ſuitable with<note n="i" place="margin">Act. 8.18.</note> 
+               <hi>Simon Magus,</hi> who would have obtained the <hi>gift of the Spirit by mo<g ref="char:EOLhyphen"/>ney,</hi> which there was the gift of <hi>Tongues,</hi> and if theſe <hi>Tangus</hi> pleaded for, be the ſame, they are all attained by money; and if this be ſo good a way now, why doth <hi>Peter</hi> ſo evilly intrea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, for deſiring that for money, which all afterwards by theſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pleas were thereby to obtain? But <hi>Peter,</hi> we ſee, perceives him to be <hi>in the gall of bitterneſſe and the bond of iniquity,</hi> that ſhould offer to ſeek to obtain the <hi>gift of Gods Spirit</hi> that way; and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they be <hi>humane excellencies,</hi> then of neceſſity the courſe is to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repented of alſo, that any ſhould offer to bring any human<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing to Gods Word, when as it is ſo expreſly forbidden u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>That we put nothing thereto,</hi>
+               <note place="margin">Deut. 12.32. Pro. 30.6.</note> 
+               <hi>nor take any thing therefrom  P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nothing to his Word, leſt he reprove thee, and thou be found a ly<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Now there is nothing but the <hi>Word</hi> and <hi>Spirit</hi> go together therefore they are lyable to <hi>Gods reproof,</hi> which is<note n="k" place="margin">Pſ. 50.21.22.</note> 
+               <hi>tearing i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pieces:</hi> Therefore let all ſuch as ſtand for ſuch learning t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bring men to the knowledge of Gods Word, mind whethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:40978:12"/>
+               <hi>Peters</hi> exhortation to <hi>Simon Magus,</hi> ought not to take place with them, namely to<note n="l" place="margin">Act. 8.22.</note> 
+               <hi>repent of this their wickedneſſe, &amp;c.</hi> and acknowledge the <hi>Spirit of God freely beſtowed, to be the alone furniſher of us to that which is right in his ſight,</hi> without which none have part or fellowſhip of this buſineſſe, in underſtanding and unfolding of the things of God; and ſo I come to another exception.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> Suppoſe two men, both alike indued with grace from God, and alike gifted by his Spirit, the one a learned man, and the other an unlearned man, which of theſe two ſhould be choſen into the Miniſtery of Chriſt in his Church?</p>
+            <p>
+               <hi>The unlearned man:</hi> For theſe Reaſons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, Becauſe<note n="m" place="margin">Gal. 2.6.</note>
+               <note n="*" place="margin">God no re<g ref="char:EOLhyphen"/>ſpecter of per<g ref="char:EOLhyphen"/>ſons, when be chuſed the un<g ref="char:EOLhyphen"/>learned for Miniſters.</note> 
+               <hi>God reſpects no mans perſon:</hi> Now if God ſhould take the learned man; then he muſt be reſpected above the other for it; if he be of right and due to be preferred, which is wickedneſſe once to think of him, for all are alike in that reſpect: But the Scripture tells us, and that for good reaſon, <hi>That without any reſpect at all, he of his good pleaſure, and that no fleſh ſhould glory, hath choſen the fooliſh things, and the vile things in mans account, he hath choſen the</hi>
+               <note n="n" place="margin">1 Cor. 1.27.</note> 
+               <hi>fooliſh things of this world to confound the wiſe:</hi> Then if God have ſo <hi>choſen,</hi> let him have his own <hi>choice,</hi> it is meet he ſhould, for his choice is the beſt; and the end why he hath ſo <hi>choſen,</hi> is, <hi>that he might confound the wiſe,</hi> and ſo<note n="o" place="margin">Iſa. 29.13.</note> 
+               <hi>fulfill his Word,</hi> as <hi>Paul</hi>
+               <note n="p" place="margin">1 Cor. 1.19.</note> expreſ<g ref="char:EOLhyphen"/>ſeth; and thus he chuſeth, not only for Salvation, but for Mi<g ref="char:EOLhyphen"/>niſtration, the<note n="q" place="margin">1 Cor. 4.10.</note> 
+               <hi>fooliſh</hi> in mans account: <hi>Paul</hi> it ſeems was ſo fooliſh in theirs and others account in his adminiſtration of the Word, as that they could ſcarce ſuffer it, and this ſenſe muſt needs be good, though the place be underſtood of <hi>Gods voice to ſalvation only,</hi> which cannot be the meaning, becauſe, as we may ſee <hi>Pauls</hi> argument about<note n="r" place="margin">2 Cor. 11.17.</note> 
+               <hi>preaching the Goſpell,</hi> going onwards in oppoſing the Scribe and Diſputer of this World, to them that were not ſuch, and ſo comes to declare a<g ref="char:EOLhyphen"/>mong whom it was that the Lord made his choice, and that was among the fooliſh in the worlds eyes: But as I ſaid before, take the other for the ſenſe, and the point remains true, be<g ref="char:EOLhyphen"/>cauſe, <hi>that of ſuch as God chuſeth to ſalvation of them, he chuſeth Miniſters, and for ſalvation, it is granted, he chuſeth the fooliſh;</hi> then it muſt needs follow, <hi>that out of the fooliſh alſo he chuſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Miniſters.</hi>
+            </p>
+            <pb n="16" facs="tcp:40978:13"/>
+            <p>Secondly, And this indeed is moſt ſuitable to the Goſpell,<note n="ſ" place="margin">1 Cor. 11.3.</note> which is it ſelf ſimplicity, and appeares to the wiſdome of man ſo to be, and it is not meet, our Saviour ſaith, to put <hi>con<g ref="char:EOLhyphen"/>traries</hi> together, <hi>as a new piece into an old garment, nor new wine into old veſſels,</hi> but to have all things ſuitable: Therefore ſee<g ref="char:EOLhyphen"/>ing the Goſpel is<note n="t" place="margin">1 Cor. 1.25.</note> 
+               <hi>fooliſhneſſe,</hi> therefore it is meet he ſhould have<note n="*" place="margin">Fooliſh in the worlds ac<g ref="char:EOLhyphen"/>count was the Lords choice.</note> 
+               <hi>fooliſh Miniſters</hi> in the <hi>wiſe worlds account,</hi> yea, and in his ſervants too, when as <hi>they ſee as man ſees, and not as doth the Lord.</hi> For thus was it of old ſubject to <hi>Samuel,</hi> the Lords Prophet, when as the Lord ſent him to the Houſe of <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, to anoint him a King, he ſeeing as a man doth,</hi> he ſaid,<note n="u" place="margin">1 Sam. 16.6, 7.</note> 
+               <hi>Surely the Lords Anointed is before me;</hi> but we finde that the Lord corrects that, and tells him, <hi>It was not ſo, the more unlikely man, and the unthought of one, was he that God had choſen to himſelf,</hi> and ſo is it here, <hi>we are not to ſee as man ſees,</hi> but <hi>as the Lord directs us.</hi>
+            </p>
+            <p>Thirdly, <hi>God chuſeth theſe things in oppoſition to others, to a<g ref="char:EOLhyphen"/>ſtoniſh the wiſdome of man:</hi> When the<note n="x" place="margin">Acts 4.13.</note> 
+               <hi>Council</hi> perceived <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> and <hi>John</hi> were <hi>unlearned men,</hi> and <hi>without knowledge, they marvelled,</hi> and were <hi>amazed:</hi> And ſo ſaith the Apoſtle, <hi>He</hi>
+               <note n="y" place="margin">1 Cor. 3.19.</note> 
+               <hi>catcheth the wiſe in their own craft:</hi> they think that all know<g ref="char:EOLhyphen"/>ledge lies in their breaſts; now the Lord he comes and mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fools wiſe, and ſo catcheth them, manifeſting, <hi>that their thoughts be but vain, in thinking that the wiſe are them that God h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho<g ref="char:EOLhyphen"/>ſen,</hi> for it is not ſo, <hi>for he hath choſen the fooliſh to confound the wiſe,</hi> and therefore ſuch as are godly wiſe, ſhould chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Gods wiſe, but the worlds fooliſh things for his ſerve, before the worlds wiſe ones; and ſo I come to another exception, which is,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> If it be <hi>ſanctified,</hi> it muſt needs be a good <hi>help to the right un<g ref="char:EOLhyphen"/>derstanding of the truth.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is true, if it be <hi>ſanctified,</hi> ſo it is; But how, or where doth that appear, that ever it was <hi>ſanctified?</hi> Hath not the Lord long agone told us by his<note n="z" place="margin">Iſa. 29.14.</note> Prophet, and wiſhed his to behold it, <hi>That he would do a marvellous work;</hi> and then he doubles it a<g ref="char:EOLhyphen"/>gain, <hi>even a marvellous work, and a wonder,</hi> and then all comes to this, <hi>that he would cauſe to periſh, and destroy the wiſdome of the wiſe, and cast away the underſtanding of the prudent;</hi>
+               <note n="*" place="margin">A curſe threatened, becauſe the people were led by the pre<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pis of men, <hi>verſe 13.</hi>
+               </note> and here, if we could ſee, we might all of us ſtay our wondering at this ſtrange thing, and conſider, the Lord tells us, <hi>it is a marvellous work, and a wonder,</hi> and ſo our wondering and marvelling how
+<pb n="17" facs="tcp:40978:13"/>theſe things come ſo to be, is but a fulfilling of <hi>Gods Word;</hi> and men might reſt in it, and ſee in the next words, <hi>that it is a woe to them for the former abuſe of the ſame: and ſo now as</hi>
+               <note n="a" place="margin">Mal. 2.2.</note> 
+               <hi>Ma<g ref="char:EOLhyphen"/>lachy</hi> ſaith, <hi>that he would curſe their bleſſings, and that he had done it already:</hi> to both which<note n="b" place="margin">1 Cor. 1.19. Rom. 8.7.</note> agrees the Apoſtle from <hi>Iſay,</hi> and concludes alſo, <hi>that God hath distroyed it:</hi> and in another place tells us, <hi>that it is enmitie with God.</hi> How ſhall any dare ſay then,<note n="*" place="margin">The worlds learning not ſanctified in a ſpiritual way.</note> 
+               <hi>it is ſanctified,</hi> when as ſo plain a <hi>curſe</hi> is on it, as that we are wiſhed to beware of being<note n="c" place="margin">Co. 2.8.</note> 
+               <hi>ſpoiled by</hi> it: Now are we wiſhed any where to beware of being ſpoiled by that which is <hi>ſanctified to us,</hi> in a <hi>ſpirituall way?</hi> Now theſe things can be <hi>ſanctified</hi> no further then they are of uſe, and that is but in a worldly way: for a <hi>ſpirituall uſe,</hi> they be accurſed from it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>6</label> Now another exception from theſe things thus minded is, That by this all Humane Learning ſeems utterly to be con<g ref="char:EOLhyphen"/>demned.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I Anſwer, that it follows not, becauſe it is not to be al<g ref="char:EOLhyphen"/>lowed in this way, that therefore it is not of any uſe; for I doe acknowledge it in it ſelfe to be a good thing,<note n="*" place="margin">Humane</note> and good in its proper place,<note place="margin">Learning is good in its proper place.</note> which is for the repairing of that<note n="d" place="margin">Gen. 11. <hi>from</hi> 6. <hi>to</hi> 10.</note> 
+               <hi>de<g ref="char:EOLhyphen"/>cay which cam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon man for ſin:</hi> ſo, I ſay, it is of good uſe, for the repairing of that loſſe, and ſo fit for Stateſmen, Phy<g ref="char:EOLhyphen"/>ſitians, Lawyers, and Gentlemen, yea, all men ſo far as they can attain to it, are as men beyond and above others that are without it, yea, and beyond all other excellencies that this world can afford, but bring it once to be a <hi>help to under<g ref="char:EOLhyphen"/>ſtand the minde of God in the holy Scriptures,</hi> and there it is <hi>de<g ref="char:EOLhyphen"/>testable filth, droſſe</hi> and <hi>dung</hi> in that reſpect, and ſo good for nothing, but<note n="e" place="margin">1 Tim. 6.21.</note> deſtroy, and cauſe men to erre, as we have ſeen before: It fares with it, as I perceive<note n="*" place="margin">But out of its place, is like fire out of the Chimney, and in the roof of the houſe.</note> it doth with fire, keep it in the chimney, and it ſerves as a good bleſſing of God, for good and neceſſary uſes, but let it once come into the roofe of the houſe, and it deſtroys all, becauſe it is not in its proper place: ſo it is here, for this thing among men, for humane and worldly imployments it is good; but bring it once to the perfecting of the Goſpel, and it will be found to be the ſpoiling of the right underſtanding thereof.</p>
+            <p>And yet further, ſo far doe I acknowleg<note n="†" place="margin">Tongues a help in Tran<g ref="char:EOLhyphen"/>ſlation.</note> Tongues to be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe, as to yeeld us the tranſlation of the Scriptures, our of
+<pb n="18" facs="tcp:40978:14"/>one language into another, without which, we that are un<g ref="char:EOLhyphen"/>learned, could not come to have the letter of the Word, and ſo far there is a neceſſity of it for that uſe; but that man which can ſo do, is ever the more able to underſtand the ſpi<g ref="char:EOLhyphen"/>rituall meaning of the word thereby, that I deny, and withall do affirm, that an underſtanding man, may through the teach<g ref="char:EOLhyphen"/>ing of the Spirit, know the mind of God, which the other may never reach unto, according to that<note n="f" place="margin">Mat. 13.11.</note> ſaying of our Savi<g ref="char:EOLhyphen"/>our, <hi>To you it is given to know the mysteries, the ſecrets of the Kingdome of heaven,</hi> to you his <hi>ſimple Diſciples</hi> it is given, but to others, the learned <hi>Scribes</hi> and <hi>Phariſees,</hi> it was not given: But in this caſe it may fare, as it did with thoſe that built <hi>Noahs</hi> Ark, they made a place of ſafeguard for others, but were drown<g ref="char:EOLhyphen"/>ed themſelves: So theſe men may prepare a good help for o<g ref="char:EOLhyphen"/>thers, but themſelves be altogether without the benefit of it; A Lanthorn, you know, is of good uſe to contain the candle, but let one carry it in a dark night, and it will do him no plea<g ref="char:EOLhyphen"/>ſure without a candle lighted in it; of the ſame uſe is the lette<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Word, it is but as a Lanthorn or candle without light<note n="*" place="margin">Learning</note> Now the Spirit is the light of the letter, and ſo is the Apoſtle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <note n="g" place="margin">2 Cor. 3.</note> oppoſition;<note place="margin">without the Spirit, is like a candle with<g ref="char:EOLhyphen"/>out light, or a Lanthorn without a candle.</note> ſuch men then in that reſpect may be a help to others, and yet when all is done, be but caſtawayes themſelves ſeeing, as we have before, ſeen the <hi>Aegyptians</hi> and <hi>Babylonian</hi> in this kind of learning to excell; and it is none other bleſſin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then what the <hi>Pope, Cardinals,</hi> and other profeſſed enemies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the truth (as all for the generall confeſſe them to be) have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as great a meaſure, and beyond many others that profeſſe t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know the truth, and ſtand ſtifly for this, as a ſpeciall help to u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>derſtand the true meaning of the Lord in the Word, which if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſo, then by their own grants they have the advantage <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, and ſo are to be reverenced of themſelves, to have mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> knowledge in it then they; ſo then they are to acknowled<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their errour, in counting themſelves wiſe above what is mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or elſe muſt be forced to confeſſe, that that learning is inavail<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble for finding out of the mind of God. Neither for all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would I have any to conclude of me, as ſome affirm, that I ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all learned men to be excluded from the ſpirituall meaning the Word, God forbid: for,</p>
+            <p>Though the Apoſtle<note n="h" place="margin">1 Cor. 1.26.</note> ſay, <hi>not many of ſeverall ranks, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> he ſaith not, <hi>there is none,</hi> but yet <hi>not many:</hi> There was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:40978:14"/>
+               <hi>Joſeph</hi> of<note n="i" place="margin">Mar. 15.34.</note> 
+               <hi>Arimathea,</hi> one<note n="k" place="margin">John 3.1. Act. 13.7.</note> 
+               <hi>Nicodemus,</hi> one Deputy<note n="l" place="margin">Act. 6.7.</note> 
+               <hi>Sergi<g ref="char:EOLhyphen"/>us Paulus a prudent man,</hi> and divers of<note n="m" place="margin">1 Cor. 1.27, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.</note> 
+               <hi>the Priests.</hi> But this was not uſual, for it is hard for ſuch men to entertain the truth: Gods ordinary way is among the fooliſh,<note n="2" place="margin">Jam. 2.5.</note> weak and vile, ſo that when as the wiſe, rich, noble and learned, come to receive the Goſpel, they then come to make themſelves equal with them of the<note n="o" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h</hi> Mat. 11.5. Rom. 12.26.</note> lower ſort, the <hi>fooliſh, vils, and un<g ref="char:EOLhyphen"/>learned,</hi> for thoſe be the true<note n="p" place="margin">Iſa. 61.1.</note> heirs of it, and therefore it was not in vain that <hi>Iames</hi> ſaid,<note n="q" place="margin">Jam. 2.5.</note> 
+               <hi>Harken my beloved brethren, hath not God choſen the poor,</hi> he well ſaw that the rich and carnall were dull of hearing of this matter, but yet he tells them, <hi>God hath choſen the poor of this world to be rich in faith,</hi> and upon this conſideration it is that he wiſheth the <hi>r Brother of high degree to rejoyce in that he was made low,</hi> that is,<note place="margin">Jam. 1.9, 10.</note> 
+               <hi>brought in his mind, and account equal with the poor, accounting himſelf never the higher for any ſuch excellencies;</hi> and ſo <hi>the Brother of low degree, to rejoyce in that he is exalted,</hi> that is, <hi>that he was made a</hi>
+               <note n="ſ" place="margin">Revel. 1.6.</note> 
+               <hi>King and Prieſt unto God, and was ſet in heavenly places with Ieſus Chriſt;</hi> ſo as the one is made low in reſpect of any fleſhly confidence he hath in ſuch things, the other is exalted, being outwardly poor, by being in <hi>Christ Ieſus,</hi> and ſo they both meet in one; but now by reaſon <hi>of the ſmoak that is riſen out of the bottomleſſe Pit, and that the Devil is</hi>
+               <note n="t" place="margin">Epheſ. 2.6.</note> 
+               <hi>caſt out of hea<g ref="char:EOLhyphen"/>ven, and all his Angels with him to the earth,</hi> which Angels were <hi>the faln</hi>
+               <note n="u" place="margin">Rev. 2.61.</note> 
+               <hi>Stars that he drew after his tail,</hi> that now he hath by reaſon of them<note n="*" place="margin">Pride and haughtineſſe is a Religion of the devils hatching.</note> hatched ſince a Religion in the world, as that he would have the <hi>wiſe,</hi> the <hi>rich,</hi> the <hi>noble,</hi> the <hi>learned,</hi> the onely ones, and the <hi>poor</hi> muſt be beholden to them, when as this is like himſelf, directly to oppoſe <hi>Ieſus Christ,</hi> ſo, as that we may truly ſay with the Prophet, <hi>Lord, who hath be<g ref="char:EOLhyphen"/>lieved our report? or to whom is the arm of the Lord revealed?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>7</label> But it is yet further objected to be the manner of ſuch as cannot themſelves attain to that <hi>excellency</hi> that is in another, to diſparage that in them, that ſo they might advance them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This I confeſſe is a <hi>carnal courſe,</hi> that ſuch as are themſelves fleſhly are ſubject to take, and it may as well be my fault as anothers; but yet I profeſſe in the preſence of the Lord, that I do not allow my ſelf in any ſuch courſe, neither doth ſuch an exception as this beſeem a man <hi>that is led by the Spirit of
+<pb n="20" facs="tcp:40978:15"/>Truth</hi> for to make againſt any <hi>ſervant of God,</hi> that profeſſeth <hi>oppoſition</hi> to ſuch things, as profeſſing to be led thereto by the <hi>Word</hi> and <hi>Spirit of Truth,</hi>
+               <note n="*" place="margin">Carnall ad<g ref="char:EOLhyphen"/>vancement is got by diſpa<g ref="char:EOLhyphen"/>raging others.</note> for it ſavours ſtrongly of the <hi>fleſh,</hi> and is too ſuitable to the <hi>practiſe of reprobates,</hi> whoſe <hi>practiſe</hi> is to take <hi>things in the evill p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt,</hi> whereas <hi>love,</hi> by which <hi>all the Saints ſhould judge, judg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the best of things,</hi> till ſuch time it can eſpie any cauſe ſo to do. And for the <hi>lifting up of my ſelfe,</hi> to be ſure <hi>if</hi> I ſo doe, <hi>Gods word</hi> it is, <hi>that he will pluck the mighty from his ſeat,</hi> and then you may be ſure, that accord<g ref="char:EOLhyphen"/>ing to his <hi>word</hi> my <hi>fall will be far greater then my exaltation can poſſibly be,</hi> and therefore it were beſt for all ſuch as ſo con<g ref="char:EOLhyphen"/>ceive, to <hi>commit the judgment to the Lord,</hi> and themſelves <hi>judge nothing before the time, nor ſpeake no more preſumptuouſly; let not arrogancie come out of your mouth, for the Lord is a God of knowledge, and by him enterpriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are establiſhed.</hi> But yet after this manner of reaſoning, <hi>carnall men</hi> may overthrow the whole Goſpel: For whereas the Scripture ſhews <hi>that Jeſus Christ was without form, or beauty, or any ſuch thing, wherefore he ſhould be deſired,</hi> the <hi>carnall man</hi> will ſoon ſay, no other but ſuch a one would be ſo fooliſh, as to part from <hi>honours, riches, credit,</hi> and ſuch like, to endure ſo much ſorrow, and need not: and whereas the Apoſtle<note n="x" place="margin">Phil. 2.</note> ſaith, <hi>That he took on him the form of a ſervant,</hi> they would ſoon anſwer, and good reaſon why, becauſe he could not be a Maſter: and whereas it is ſaid, <hi>He choſe the poor,</hi> that will they ſay, he muſt needs do, and the <hi>fooliſh,</hi> for none of the rich and <hi>wiſe</hi> would be ſo ſimple as to follow him: and whereas he ſaith, <hi>Love not the world, nor the things in it,</hi> good cauſe why, will they ſay, for ſuch fools as you know not how to get it, or elſe, to be ſure, you would love it as well as others. And thus have I given you a glimpſe, how that by this manner of carnall arguing, we might overthrow our own <hi>Salvation, and ſit down in the very vale and ſhadow of death, as full of darkneſſe, as this argument is destitute of truth.</hi>
+            </p>
+            <p>And thus having anſwered to ſuch exceptions as I know of, made againſt this truth, I come now to ſuch Uſes as it ſhall af<g ref="char:EOLhyphen"/>ford us. The firſt is,</p>
+            <p>To diſcover to us the <hi>depth of the great Woe that the world lyes under,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> ſet forth and<note n="y" place="margin">Rev. 9. <hi>from</hi> 1.10 11.</note> 
+               <hi>revealed to us,</hi> in which the <hi>word of the Lord is fulfilled,</hi> and men ſee it not; and this you know the Scripture in ſundry places makes the <hi>depth of a judgement,</hi> as in
+<pb n="21" facs="tcp:40978:15"/>
+               <hi>Hoſea,</hi> Ephraim <hi>is ſaid to have here and there gray hairs, and yet he ſaw them not;</hi> and in this we know was the ſtrength of that<note n="z" place="margin">2 Theſ. 2.11.</note> 
+               <hi>great Judgement, that men ſhould confidently take lyes for truth,</hi> this is there made the <hi>depth of their woe.</hi> And the like is mani<g ref="char:EOLhyphen"/>feſted<note n="*" place="margin">1 Tim. 4.2.</note> elſwhere by the ſame Apoſtle, declaring, <hi>That though they ſpeak lies, yet they were ſo ſcared in their conſciences, as that they felt, nor feared no danger that they were in,</hi> no more <hi>then the man that lying drunk did, though he lay ſleeping on the top of the Mast, and ſo ready to be drowned, yet he feared it not;</hi>
+               <note place="margin">
+                  <hi>Pro. 23.34, 35.</hi> Woe to thoſe men that take darkneſſe for light, and live in the ſmoak of the worldly Temples.</note> and yet ſuch is the caſe, the Sun and the Ayr being darkened, their condition muſt needs be wofull; and yet this is the caſe of the Inhabitants of the earth, that they cannot be brought to believe, but that they are in a very good caſe, though <hi>that the light of the glorious Goſpel which is the Image of God, do not ſhine unto them,</hi> as<note n="a" place="margin">2 Cor. 4 4.6.</note> ſaith the Apoſtle. Now that by which this Sun is ſaid to be darkened, <hi>is the ſmoak of the bottomleſſe Pit,</hi> and that we ſhall find to be the <hi>glory and power of the falſe Church,</hi> called by the name of the <hi>Bottomleſſe Pit.</hi> And that this may the better appear, we find many<note n="b" place="margin">Iſa. 6.4. 2 King. 8.11, 12. <hi>with</hi> 15. Rev. 8.</note> places in the Scri<g ref="char:EOLhyphen"/>ptures, <hi>manifesting the glory of God, and his power to be his ſmoak.</hi> Now becauſe God hath <hi>ſmoak</hi> in his Temple, ſo hath Gods <hi>Adverſary</hi> in his Temple alſo, or rather, his <hi>bottomleſſe Pit:</hi> After his <hi>ſmoak,</hi> in <hi>Rev.</hi> 9, 2, 3. <hi>there follows power;</hi> and if you look in the 7.8. and 9. verſes, there is their glory; and it doth further appear by the thirteenth Chapter, and the third verſe, <hi>that it was ſo great</hi> power <hi>and</hi> glory, as <hi>that all the world wondered, and admired it;</hi> and yet this <hi>Ieſus Christ <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccounts a great woe and plague to them;</hi> now part of this <hi>woe;</hi>
+               <note place="margin">Rev. 16 10, 11.</note> I believe is this learning which we have here in queſtion, for as we have before manifeſted, <hi>the Sun light of the Goſpel of</hi> Jeſus Chriſt <hi>al<g ref="char:EOLhyphen"/>lows not,</hi> for the <hi>glory of Chriſts Doctrine is, that it is of the Spi<g ref="char:EOLhyphen"/>rits teaching;</hi>
+               <note place="margin">2 Cor. 3 12.</note> for when we behold the glory of the Lord in the moſt perfect meaſure, ſo as <hi>we are changed thereinto from</hi> glory <hi>to</hi> glory; yet all is from the Spirit of the Lord, ſeeing that he is the promiſed Comforter, that is to teach us all good things belonging to our perfection.</p>
+            <p>Then it muſt needs follow, that is a ſmoaky power and glo<g ref="char:EOLhyphen"/>ry, flowing <hi>from the Kingdom of Satan, and ſo a part of the Taile that</hi>
+               <note n="c" place="margin">Rev. 12.4.</note> 
+               <hi>the</hi> Dragon <hi>drew the</hi> Stars <hi>withall after him:</hi> And hence comes it to paſſe, that now inſtead of the Spirits
+<pb n="22" facs="tcp:40978:16"/>teaching,<note place="margin">2 Pet. 2.1.</note> according to <hi>Peters</hi> Propheſie, here are a generation that do ariſe,<note place="margin">1 Tim. 4.2.</note> 
+               <hi>which privily bring in damnable errors; and ſo, for that end, forſaking the Spirit of Truth, they ſpeak lies through hy<g ref="char:EOLhyphen"/>pocriſie:</hi> As <hi>Paul</hi> alſo witneſſeth they ſhould do, pretending now, that the true and right way for underſtanding the Scri<g ref="char:EOLhyphen"/>ptures and mind of God was, that men for that end muſt learn a part from others, only for that work, and ſo to be taught in Tongues, and divers Languages, and have their wits exerciſed in Arts and Sciences humane, and ſo ſuch a flouriſh bears this in mans conceit, as that it ſeems the only way that can be for a man to be made fit for this work, ſo that before, while the Angels kept their ſtation in heaven, the Spirits ſimple teach<g ref="char:EOLhyphen"/>ing was judged ſufficient, without theſe things, for this work, they now being fallen from thence to the <hi>earth, and having the key of the bottomleſſe Pit,</hi>
+               <note place="margin">Rev. 9.4.</note> thence it being opened, now ariſeth up<note n="d" place="margin">
+                  <hi>See</hi> John Bale on <hi>Re.</hi> 9.1.</note> 
+               <hi>Plato</hi> and <hi>Ariſtotle,</hi> and a multitude more of Heathen Phyloſophers.<note n="*" place="margin">Phyloſophers are the Angels that hinder the Spirits four winds to blow on the four corners of the earth.</note> Theſe are the <hi>four Angels that ſtand on the four corners of the earth, holding the four Winds that they ſhould not blow on the earth, neither on the Sea, neither on any Tree,</hi> as being thoſe that have the whole power of preaching in their hand, not ſuffering any to blow, but who they pleaſe, and ſo <hi>do withhold the truth in unrighteouſneſſe, declaring thereby they be under the wrath of God;</hi> and they ſeem to yeeld theſe ſtarry Principles very fitting in their own underſtanding, better to furniſh them with <hi>fitneſſe to open the mind of God,</hi>
+               <note place="margin">Rev. 7.1.</note> then his <hi>Spi<g ref="char:EOLhyphen"/>rit</hi> can do;<note place="margin">Rom. 1.18.</note> whereas before, when as the perfect teachings of the holy S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> was in force, theſe men, of all others, were by reaſon of them learning and wiſdome, the moſt unutterableſt men that were in the world for the receiving of the truth, as appears by the teſtimony of <hi>Luke,</hi>
+               <note place="margin">Acts 1.18.</note> and is not yet, for all the great Sun-light of the glorious Goſpel of <hi>Chriſt,</hi> which theſe men profeſſe, they have theſe black ſmoaky principles ſtill ſo ſtifly ſtood for, as that there is no removing of men from the high conceit that they have of them: And doth not this ſuffi<g ref="char:EOLhyphen"/>ciently declare, as the Apoſtle ſaith, That God hath blinded the minds of men,<note place="margin">2 Cor. 4.4. John 9.41.</note> ſo as they cannot ſee, but are ſo much the blinder, becauſe they ſay they ſee: And hence came it to paſſe, that I for mentioning <hi>Plato</hi> and <hi>Ariſtotle,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and ſuch like, was demanded how I came by the knowledge of that, if not by <hi>Humane Learning?</hi> with contempt caſt upon it, as if that
+<pb n="23" facs="tcp:40978:16"/>which I had from them, being Humane learned men, was of it ſelf ſufficient to overthrow the matter which I had there deli<g ref="char:EOLhyphen"/>vered.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwered then, as I do ſtill, it was none other but as <hi>Paul</hi> mentioned to the <hi>Athenians, their own Poets,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17.</note> and yet for all that, he was as great an enemy to <hi>Humane Learning</hi> as I, and greater too. And it is to be minded, as I have before declared, that I do not oppoſe the knowledge of humane things, nor yet deny, but that we may be acquainted with their ſayings, as the Apoſtle himſelf, and our Saviour was, yea, and that ſome<g ref="char:EOLhyphen"/>times we make uſe of them too, as occaſion requires, as I have done here, though ſparingly, and but ſeldome, and when it is, that it be of great uſe, as it was at thoſe three times that <hi>Paul</hi> did uſe them, and no more, that I remember, in all the Scri<g ref="char:EOLhyphen"/>pture. Now this you ſee the Spirit teacheth,<note place="margin">
+                  <hi>Acts</hi> 17.28. 1 Cor. 15.33. Tit. 1.12.</note> and therefore it cannot properly be called <hi>Humane Learning,</hi> eſpecially in my ſenſe that I have to do withall, which is to oppoſe that which is maintained to make men fitting to open the mind of God in his Word, which is by the learning of Tongues and Arts, as of neceſſity, whereas this is uſed but by the <hi>by,</hi> and not to find out the Truth with, but it being ſufficiently before pro<g ref="char:EOLhyphen"/>ved by themſelves alſo: It is the Spirits order to gain their acknowledgement of it, and this is no other learning, but what every man without any Scholarſhip (as ye call it) may attain unto, whereas that that is ſo much gloried in is, that a man is able aptly to ſpeak according to art and knowledge in the Sciences, and this is it by which men yet ſtill are hatched and bred up, and this I believe was the means of bringing in all thoſe abominable errors that the earth hath drunk in,<note place="margin">Rev. 12.16. 1 Tim. 6. <hi>to</hi> 12. Revel. 12.4.</note> both in Doctrines and Practice, and ſo have occaſioned thoſe noy<g ref="char:EOLhyphen"/>ſome luſts that drown men in perdition, that the man of God is to fly, as beſt beſeeming the tail of the Dragon, and ſuiting with this great woe which is further manifeſted, by comparing the Miniſters of <hi>Ieſus Chriſt,</hi> and thoſe together.</p>
+            <p>Now what marks they be known by, you may read in 2 <hi>Cor.</hi> 6. from the third, to the 11. Verſe, where, as in a Looking-glaſs, you may behold the true Picture, both of the one, and of the other; by them we approve our ſelves as the Miniſters of Chriſt, and give none occaſion why our Miniſtery ſhould be reproved; ſaith <hi>Paul, In much patience, in afflictions, in neceſſi<g ref="char:EOLhyphen"/>ties,
+<pb n="24" facs="tcp:40978:17"/>in diſtreſſes, in ſtripes, in impriſonments, in tumults, in labour, in watchings, in faſtings, by pureneſſe, by knowledge, by long-ſuffer<g ref="char:EOLhyphen"/>ing, by-kindneſſe, by the Holy Ghoſt, by love unfaigned, by the Word of Truth, by the power of God, by the Armor of Righteouſneſſe on the right hand, and on the left, by honour and diſhonour, by evil re<g ref="char:EOLhyphen"/>port, and good report, as deceivers, and yet true, as unknown, and yet known, as dying, and yet behold we live, as chastened, and not killed, as ſorrowfull, and yet alway rejoycing, as poor, and yet making many rich, as having nothing, and yet poſſeſſing all things.</hi>
+               <note n="*" place="margin">Diſtinguiſh<g ref="char:EOLhyphen"/>ing marks of the true Mini<g ref="char:EOLhyphen"/>ſters.</note> Theſe ye ſee are the marks by which <hi>Paul</hi> approves himſelfe with his fellow labourers, to be the Miniſters of Chriſt; now ſelves ſo to be; they diſprove themſelves to be the Miniſters of Chriſt in all theſe things: <hi>Where is their patient bearing with the contrary minded,</hi> as <hi>Paul</hi> ſaith, <hi>the</hi>
+               <note n="f" place="margin">2 Tim. 2.24, 25.</note> 
+               <hi>ſervants of God ſhould do?</hi> And where are their afflictions which they ſuffer, with their ne<g ref="char:EOLhyphen"/>ceſſities and diſtreſſes? Are they not for the moſt part full of all outward neceſſaries? What are they in diſtreſſe for? How many ſtripes do they ſuffer, or ſhall have need ſo to do, be they but obſervant of their Canonical obedience? How many, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, where are any impriſonments that they ſuffer, or at leaſt need to do, if they live according to their own Laws? And for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>mults, they are ſo far from abiding any, as that they be far more ready to make them againſt others, then to endure them them<g ref="char:EOLhyphen"/>ſelves, and for their labours, which what he means you may perceive by 1 <hi>Cor.</hi> 4.12. and that to be ſure they are guiltleſſe of; and ſo for their watchings, and faſtings, and all the reſt being duly conſidered of, we may read the quite contrary ful<g ref="char:EOLhyphen"/>filled in them, ſo that of neceſſity there will appear as void <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> difference, as is betwixt light and darkneſſe, and thoſe perſons more fitly ſuiting that deſcription belonging to the<note n="g" place="margin">Rev. 9. <hi>from</hi> 7. <hi>to</hi> 11.</note> Locuſts, then with this deſcription here of the<note n="h" place="margin">2 Cor. 6. <hi>from</hi> 3. <hi>to</hi> 11.</note> Apoſtle; ſo far are they from what they pretend themſelves to be, as that the words of the Prophet came truly to be fulfilled in them, <hi>That their</hi>
+               <note n="i" place="margin">Iſa. 47.10.</note> 
+               <hi>wiſdome and their knowledge perverts them, or cauſes them to erre, and is the wickedneſſe they trust unto;</hi> and this is it that lifts them up in their own conceits, ſo far, as that they think in their hearts, and ſtick not to ſay alſo with their tongues, that they are for the miniſtration of the Word, and none elſe; and the Lord ſaith, <hi>That their wiſdome and knowledg is the cauſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:40978:17"/>this their error,</hi> and they ſay, it is the means of right under<g ref="char:EOLhyphen"/>ſtanding: now whether is to be believed God or they, let all judge, eſpecially when as we ſee, that the Lord himſelf is againſt them for it, in denying others, he denies them, ſay<g ref="char:EOLhyphen"/>ing, <hi>therefore ſhall evill come upon thee, and thou ſhalt not know where it ariſeth,</hi> &amp;c. all which declares the depth of the woe they lie under, for is not this a wofull thing, that of that which God hath made a curſe, men ſhould make a bleſſing, and that againſt his will, and ſay, that his mind cannot be knowne; what can be more againſt him.?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> In the next place, that being ſo, that men taught by Gods Spirit, are through it ſufficiently made able to know his minde in word, then it teacheth us not to account any man any whit the nearer to underſtand the Scriptures by any humane excel<g ref="char:EOLhyphen"/>lencies, but rather let us be ſuſpitious of him that hath them, for the fame, eſpecially if he make uſe of them in thoſe things, for, as we have ſeene they be dangerous to be lean<g ref="char:EOLhyphen"/>ed unto. It is his high time that now we ſhould all awake from ſleepe, and watch in the Spirit, and ſo let the Lord have all the praiſe and glory of his owne grace, <hi>Not unto us, not unto us, but to his name be all the glory,</hi>
+               <note place="margin">Rom. 11.19.</note> 
+               <hi>ſeeing it is he only that doth great things.</hi>
+            </p>
+            <p>Allſo it may teach all men to ceaſe pinning of their faith upon the ſleeves of Learned men, for there is no good cauſe why we ſhould ſo doe; but to ſee with our owne eyes, ſeeing that the juſt is to live by his own faith, and to beleeve what the Lord hath ſaid, which is, <hi>that he hath</hi>
+               <note n="k" place="margin">Luke 10.21.</note> 
+               <hi>hid thoſe things,</hi> that is, the myſteries of the Goſpel (among which, this which now is declared is one) from the wiſe and learned, and this I verily be<g ref="char:EOLhyphen"/>lieve is the wholeſom Doctrine of the Goſpel, and which hath againſt it the wiſe and learned, oppoſing and de<g ref="char:EOLhyphen"/>nying of it to be ſo, and ſo confirming the words of our Saviour: therefore need we not to wait for their witneſs to it; but to be glad, and rejoyce to ſee his ſaying made true, That he will reveale them to babes, that is, ſimple things in the Worlds eye and account, and with this conſideration to overlook all contempt that can be caſt upon us for the ſame: For ſo is it now with men, that they judge that nothing is hid from ſuch and ſuch,
+<pb n="26" facs="tcp:40978:18"/>when as we are to expect the fulfilling of the Prophecy of<note n="l" place="margin">Zach. 13.2, 3.</note> 
+               <hi>Zachary, that the Lord will cut off the names of the Idols, and the unclean Spirits of the Land, and that while they Prophecy, their Father and Mother that begat them, ſhall run them through with the Sword of the Spirit, and ſay, Thou ſhalt not live, becauſe they told lies in the name of the Lord;</hi> and then ſhall they be <hi>aſhamed of their Viſion;</hi> and it then ſhall be known, that their garments, by which they be known &amp; taken knowledg of to be Miniſters, are <hi>garments of deceit;</hi> and at that day ſuch Prophets ſhal be aſha<g ref="char:EOLhyphen"/>med of themſelves, as that they ſhall diſclaim themſelves for ve<g ref="char:EOLhyphen"/>ry ſhame, to ſtand in any relation to ſuch Prophets, as<note n="m" place="margin">Zach. 13.4, 5</note> there the Prophet ſhews, when are their neereſt friends with con<g ref="char:EOLhyphen"/>tempt ſhall refuſe them, and run them through, ſaying, <hi>Thou toldſt us lies in the name of the Lord;</hi> ſuch light it ſeems ſhall then appear, as that they themſelves ſhall count him no <hi>Prophet,</hi> that is made ſo by mans teaching. Now this teaching in que<g ref="char:EOLhyphen"/>ſtion, is but mans teaching, and therefore when as the clear light appears, they ſhall be aſhamed of it, though now they prefer it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> This Conſideration alſo miniſters matter of thankfulneſſe to God on our parts, for his exceeding kindneſſe towards us in <hi>Chriſt Jeſus,</hi> for that he is pleaſed to reveal theſe great Myſte<g ref="char:EOLhyphen"/>ries to ſuch mean and ſimple things as we are, when as he con<g ref="char:EOLhyphen"/>ceals them from the wiſe and prudent: This<note n="n" place="margin">Mat. 11.29.</note> uſe <hi>Chriſt Je<g ref="char:EOLhyphen"/>ſus</hi> himſelf makes, and gives us to underſtand the true cauſe why, and that he makes not any excellency in them, more then was in others, but only according to the nature of the Goſpel, the good pleaſure of God, which is indeed the only ground of all our happineſſe, and bleſſed muſt needs all thoſe be, that can with our Saviour truly conclude with the ſame. And ſo I come to the next point; for having found out who be the learned men that <hi>Peter</hi> here intends, which is, they are taught by the Spirit of God, then it muſt needs follow, that they that are not ſuch, are the perverters of theſe and all other Scri<g ref="char:EOLhyphen"/>ptures to their own deſtruction; and ſo this is another Obſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <hi>That ſuch as are deſtitute of the Spirits teaching,</hi>
+               <note n="*" place="margin">Here he ſet out the perver<g ref="char:EOLhyphen"/>ters of Scri<g ref="char:EOLhyphen"/>pture.</note> 
+               <hi>though fur<g ref="char:EOLhyphen"/>niſht with</hi> Humane Learning, <hi>are the perverters and wreſters of theſe, and all other Scriptures, to their own deſtruction.</hi>
+            </p>
+            <p>The truth of this Concluſion appears plainly confirmed to
+<pb n="37" facs="tcp:40978:18"/>us in the<note n="o" place="margin">Mat. 5.21.</note> 
+               <hi>Phariſees,</hi> as our Saviour declares in many parti<g ref="char:EOLhyphen"/>culars, plainly diſcovering the<note n="*" place="margin">Mat. 23. <hi>from</hi> 16. <hi>to</hi> 19.</note> 
+               <hi>blindneſſe of theſe learned Teachers,</hi> in eſteeming and preferring of things leſſe in them<g ref="char:EOLhyphen"/>ſelves, above ſuch as were far greater, as the proportion is made betwixt the <hi>Gold of the Temple, and the Temple,</hi> and the <hi>Altar, and that which was offered thereon;</hi> and ſo blind were they, that they counted that moſt holy, which the <hi>Temple</hi> and the <hi>Altar</hi> made to be holy; and the ſame<note n="p" place="margin">Mat. 15. <hi>from</hi> 3. <hi>to</hi> 7.</note> elſwhere appears, that for all their learning, they taught directly againſt the <hi>mind of God in his Word.</hi> We may ſee the ſame further commended to us, <hi>Barjeſus,</hi> one full of all<note n="q" place="margin">Acts 13.6.</note> 
+               <hi>ſubtilty</hi> in this kind, but a <hi>turner from the Faith,</hi> and not to it, and a <hi>perverter of the ſtraight wayes of God.</hi> The like is to be obſerved in<note n="r" place="margin">1 Tim. 1.7.</note> thoſe of whom <hi>Paul</hi> ſpeaks, <hi>that would be Doctors of the Law, and yet knew not what they ſaid, nor whereof they affirmed,</hi> ſo wiſe their Hu<g ref="char:EOLhyphen"/>mane Learning did help to make them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> Now from the <hi>World of God,</hi> good Reaſons may be obſer<g ref="char:EOLhyphen"/>ved further to confirm this: As firſt,</p>
+            <p>Becauſe nothing but the <hi>Spirit of God</hi> can bring any to the <hi>true knowledge of the Word of God,</hi> and ſo ſaith the<note n="ſ" place="margin">Cor. 2.12.</note> Apoſtle, <hi>We have received the Spirit of God, that we may know the things that are given us of God;</hi>
+               <note n="*" place="margin">The Spirit of God, though in <hi>Coblers, Pedlers, Tin<g ref="char:EOLhyphen"/>kers,</hi> or <hi>Chim<g ref="char:EOLhyphen"/>ney-ſweepers,</hi> is better thou all the worlds learning, though in Popes, Coun<g ref="char:EOLhyphen"/>cils, Cardi<g ref="char:EOLhyphen"/>nals, Biſhops, or Presbyters.</note> and <hi>Peter</hi>
+               <note n="t" place="margin">2 Pet 1.20, 21.</note> tells us, <hi>that no Scri<g ref="char:EOLhyphen"/>pture is of any private interpretation;</hi> but in oppoſition to that, the Apoſtle ſets the Spirit, and oppoſes it to the will of man, and ſo declares that the <hi>Spirits interpretation,</hi> where it is, is a <hi>publike interpretation,</hi> and not <hi>private;</hi> and that men, though indued with great learning, having not the <hi>Spirit of God,</hi> can give but a <hi>private interpretation,</hi> according to the Apoſtles in<g ref="char:EOLhyphen"/>tent, let men judge what they will, though it be the <hi>Pope,</hi> and all his Councils of <hi>Cardinals</hi> and <hi>Biſhops,</hi> and the reſt of that learned Robble; yet they being deſtitute of the Spirit, can give but a private interpretation, according to the Apoſtles mind, whereas, if a man have the <hi>Spirit of God,</hi> though he be a <hi>Pedler, Tinker, Chimney-ſweeper,</hi> or <hi>Cobler,</hi> he may, by the help of Gods Spirit, give a more publike interpretation, then they all: for as<note n="u" place="margin">Cor. 15.1, 2</note> 
+               <hi>Paul</hi> ſaith of <hi>love,</hi> the ſame is to be ſaid of the <hi>Spirit, Though men did ſpeak with the tongues of men and An<g ref="char:EOLhyphen"/>gels, and knew all ſecrets, and had all knowledge, yet this is but as a ſounding braſſe, or tinkling Cymball</hi> without the <hi>Spirit.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> Another reaſon is, becauſe this was one end of <hi>Jeſus Chriſt</hi>
+               <pb n="28" facs="tcp:40978:19"/>his coming into the world, <hi>that they that</hi>
+               <note n="x" place="margin">John 9.39.</note> 
+               <hi>ſee might be made blinde;</hi> and this clearly appears in the <hi>Phariſees,</hi>
+               <note n="*" place="margin">The learned aceounted the common people accurſed.</note> thoſe learn<g ref="char:EOLhyphen"/>ed wiſe men that counted the common people as accurſed, be<g ref="char:EOLhyphen"/>cauſe not knowing the Law, and they themſelves ſeeing, <hi>bleſſed ones;</hi> and therefore,<note n="y" place="margin">Joh. 7.48.</note> ſay they, <hi>Do any of the Rulers or Phari<g ref="char:EOLhyphen"/>ſees believe in him?</hi> as touching, that the <hi>Rulers</hi> and <hi>Phariſees</hi> muſt needs know the truth, when as theſe were <hi>blind guides,</hi> as our Saviour ſaith, and ſo much<note n="z" place="margin">Joh. 9.40.</note> theſe took notice of that he ſo accounted them; and ſo alſo thoſe that were <hi>blind</hi> in <hi>mans ſight,</hi> as was the <hi>blind man</hi> there ſpoken of, <hi>He ſees the gift of God, and believes in Jeſus Chriſt for his ſalvation,</hi> and yet they refuſe the knowledg and light of this <hi>ſeeing</hi>
+               <note n="a" place="margin">Ver. 29.</note> 
+               <hi>man,</hi> and up<g ref="char:EOLhyphen"/>braid him for being born in <hi>ſins,</hi> and for going about to teach them, ſcorning that ſuch learned men as they ſhould be taught of ſuch as he was, though <hi>Jeſus Chriſt</hi> hath made him learned, and given himſelf for him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> Another Reaſon is rendered out of the words,</p>
+            <p>Becauſe ſuch are unlearned and unſtable ones: for as before we have ſeen ſuch perſons are deſtitute of the<note n="*" place="margin">The unlearn<g ref="char:EOLhyphen"/>ed of the Spi<g ref="char:EOLhyphen"/>rit are the un<g ref="char:EOLhyphen"/>ſtable ones.</note> true learning, ſo alſo are they in an unſetled and unſtable condition, ſeeing, as the Prophet<note n="b" place="margin">Pſal. 51.</note> witneſſeth, <hi>That the Spirit is the eſtabliſher;</hi> neither can they be rooted, and eſtabliſhed in the Faith, accord<g ref="char:EOLhyphen"/>ing to the Apoſtles<note n="c" place="margin">Col. 2.7.</note> ſaying, ſeeing they be not <hi>founded</hi> on the <hi>Rock Chriſt Jeſus,</hi> but on the <hi>Sands</hi> of Humane Learning, ari<g ref="char:EOLhyphen"/>ſing from a ſleſhly mind, deſtitute of the Spirit of Truth, for they have not learned, as the truth is in Jeſus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>4</label> Again, it muſt needs be ſo, that ſuch muſt pervert the Scri<g ref="char:EOLhyphen"/>ptures, becauſe it is impoſſible for them to go beyond their principle: Now their principle is error, as the following words declare, and by it they be guided<note n="†" place="margin">They that heaped Teach<g ref="char:EOLhyphen"/>ers to them<g ref="char:EOLhyphen"/>ſelves, were led to fables.</note> and led, even the whole heap of them, as big as it is, <hi>and theſe ſhall ſatisfie mens lusts, and turn them from the Faith, unto Fables,</hi> as the<note n="d" place="margin">2 Tim. 4 4.5</note> Apoſtle long a<g ref="char:EOLhyphen"/>go hath foretold; for ſuch as are themſelves of the fleſh, turn all things to fleſhlineſſe, for that is it which they ſavour, for to the unclean all things are unclean, their conſciences being defi<g ref="char:EOLhyphen"/>led, as<note n="e" place="margin">Tit. 1.15.</note> witneſſeth the Apoſtle: Hence was it, that when as our Saviour<note n="f" place="margin">Joh. 2.29</note> bad the Jewes to <hi>destroy this Temple,</hi> meaning his<note n="g" place="margin">Ver. 29.</note> 
+               <hi>body,</hi> they themſelves being carnall, underſtood him to ſpeak of the Temple of <hi>Jeruſalem.</hi> And ſo the <hi>Capernaits</hi> when as <hi>Jeſus Chriſt</hi> tells them, <hi>He will give them</hi>
+               <note n="h" place="margin">Joh. 6.</note> 
+               <hi>of his fleſh
+<pb n="29" facs="tcp:40978:19"/>to eat,</hi> they being carnal, cannot bear it,<note place="margin">Verſe 53.60.63.</note> and all becauſe they be deſtitute of the Spirit, for it was in a ſpirituall ſenſe that he intended it. And the like is to be ſeen in <hi>Nicodemus</hi> a Phariſee,<note place="margin">Joh. 5.1, 3, 4.</note> and ſo a learned man, being a Teacher, and a Ruler of the Jews; this man, for all this, when as <hi>Jeſus Chriſt</hi> tells him, <hi>That he muſt be born again,</hi> otherwiſe <hi>he cannot enter into the Kingdome of God;</hi> he ſeeing no further then into the <hi>natural birth,</hi> demands how that could be, <hi>That a man, when he is old, ſhould enter into his mothers womb, and be born again;</hi> ſo deſtitute was he of the ſpirituall meaning of the minde of <hi>Jeſus Chriſt</hi> in his <hi>Word.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>5</label> Another Reaſon (methinks) included in the words is;</p>
+            <p>Becauſe ſuch perſons are uſually <hi>veſſels of wrath, prepared to deſtruction;</hi>
+               <note n="*" place="margin">Thoſe to whom the Gospel is a ſa<g ref="char:EOLhyphen"/>vour of death, would have it go in their way.</note> therefore they drive all to the ſame end, to which themſelves belong: The <hi>Goſpel is the ſavour of life to life in them that are ſaved, but is the ſavour of death to them that periſh:</hi> Yet would I not from hence have any to conclude, that I deny ſalvation to learned men, as ſome in effect have affirmed (as I hear) of me, for the Scripture is againſt it, as is already before declared from the<note n="i" place="margin">1 Cor. 1.26.</note> Apoſtle, though there be <hi>not many.</hi> But yet this for certain is the worſt work that a <hi>carnall man</hi> can undertake, to meddle with the Scri<g ref="char:EOLhyphen"/>ptures, ſeeing that he abuſeth them, and that to his own de<g ref="char:EOLhyphen"/>ſtruction, for the <hi>Word</hi> is a Sword with two edges, which who<g ref="char:EOLhyphen"/>ſoever that is carnall meddles with, it will run into his <hi>heart,</hi> to<note n="k" place="margin">
+                  <hi>Rom.</hi> 2.5.</note> 
+               <hi>harden it againſt the day of wrath.</hi> And ſo I conceive the point is clear and plain, <hi>That men without Gods Spirit, though furniſht with Humane Learning, do wreſt the Scriptures to their own deſtruction.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> But here it will then be demanded, how ſhall we know whe<g ref="char:EOLhyphen"/>ther we have the <hi>Spirit of God,</hi> or the <hi>Spirit of Error?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> I anſwer, that the <hi>Spirit of God is a ſufficient witneſſe to it ſelf,</hi> ſeeing, that the <hi>Spirit</hi> is <hi>Truth.</hi> Now this agreeing, as it doth with the <hi>Word,</hi> needs not any other teſtimony of it ſelf, becauſe it is the <hi>witneſſe of God,</hi> and that is the <hi>greateſt,</hi> as ſaith <hi>John, the</hi>
+               <note n="l" place="margin">1 Joh. 5.6.</note> 
+               <hi>Spirit beareth witneſſe,</hi> for the <hi>Spirit</hi> is <hi>Truth:</hi> And againe,<note n="m" place="margin">1 Joh. 3.</note> 
+               <hi>Hereby we know that he abideth in us, even by the Spirit that he hath given us.</hi>
+            </p>
+            <p>Next, it is to be knowne by its operations and works: as firſt it <hi>ſavours ſpirituall things, They that are after the fleſh,</hi>
+               <pb n="30" facs="tcp:40978:20"/>ſaith the Apoſtle,<note n="n" place="margin">
+                  <hi>Rom. 8.5.</hi> Gods Spirit is known by his mighty works.</note> 
+               <hi>ſavour the things of the fleſh; and they that are after the Spirit, the things of the Spirit.</hi> And again, <hi>the</hi>
+               <note n="o" place="margin">Verſe 10.</note> 
+               <hi>ſpi<g ref="char:EOLhyphen"/>rit is life for righteouſneſſe ſake,</hi> and is ſaid to be of a<note n="p" place="margin">Verſe 11.</note> 
+               <hi>quickning and an enlivening nature for righteouſneſſe.</hi> The fruits of it arc further manifeſted in<note n="q" place="margin">Gal. 5, 22, 23</note> other places. Now theſe things be<g ref="char:EOLhyphen"/>ing found in us, do witneſſe for <hi>God</hi> againſt <hi>Error,</hi> though it ſet it ſelf up with never ſo high a hand:<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> And yet here (me<g ref="char:EOLhyphen"/>thinks) I hear the wordly learned men ſaying to me, as did<note n="r" place="margin">1 Kin. 22.24.</note> 
+               <hi>Zedekiah,</hi> When went the <hi>Spirit of God</hi> from them, to ſuch as I ſpeak of? To this I anſwer, that with <hi>Zedekiah,</hi> ſuch perſons do but beg the queſtion,<label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> and take for granted, like him, that which they never had, for that could never depart from him which was never with him; therefore though he were <hi>great,</hi> and his <hi>companions many,</hi> as is<note n="ſ" place="margin">Verſe 6.</note> ſhewed, and that <hi>Micajah</hi> was but one poor Prophet alone, and hated of the King, yet he had the <hi>Spirit of God,</hi> when as all the other were led and ruled by the <hi>lying Spirit;</hi> and though <hi>Jeſus Chriſt,</hi> and his <hi>learned ones</hi> cannot be believed of the great and honourable Prophets of the world, but by <hi>Zedekiahs</hi> ſhall be ſmitten on the Cheek, when by them this queſtion is demanded of the <hi>Lords Prophets,</hi> yet this anſwer may be given them, that when as they come to hide themſelves in ſecret, and to be aſhamed of their <hi>Viſion,</hi> and that the<note n="t" place="margin">Rev. 15.1.</note> 
+               <hi>ſeven laſt plagues</hi> come to be fulfill'd, ſpoken of in the <hi>Revelations,</hi> then they ſhall find the <hi>truth</hi> of the <hi>teſtimony</hi> that is born againſt them, though in the mean time the <hi>ſervants</hi> of the <hi>Lord</hi> be committed to priſon, there <hi>to eat the bread of af<g ref="char:EOLhyphen"/>fliction, and the water of affliction</hi> for their <hi>teſtimony.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> But though it be granted that Humane Learning is no help to underſtand the mind of God, yet is not uſefull to furniſh us with words to expreſſe our ſelves in the delivery of the Coſpel.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> I anſwer with <hi>Paul,</hi> that the<note n="†" place="margin">The whole Scripture is given of God.</note> whole <hi>Scripture is given of God, and is profitable to make the man of God abſolute and through<g ref="char:EOLhyphen"/>ly</hi>
+               <note n="u" place="margin">2 Tim. 3.16.</note> 
+               <hi>furniſhed to every good work:</hi> Whence I conclude, that if the <hi>Scripture be perfect</hi> and <hi>abſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lute for every good work,</hi> then it is ſo for that, ſo that then there is no need of <hi>mans wiſdome</hi> to help the <hi>Miniſters of God.</hi> And ſo yet further, ſaith the Apoſtle, that he<note n="x" place="margin">1 Cor. 1.17.</note> 
+               <hi>preached the Goſpel, not with wiſdome of words;</hi> if not with <hi>wiſdome of words,</hi> then I conclude, they were needleſſe, and ſo much the next words declare, <hi>Leſt,</hi> ſaith he, <hi>I ſhould make the
+<pb n="31" facs="tcp:40978:20"/>Croſſe of none effect.</hi> And again, <hi>I, Brethren,</hi> ſaith he, <hi>when I come unto you, came not with the</hi>
+               <note n="y" place="margin">1 Cor 2.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>excellency of words, or of wiſdom,</hi> ſhewing unto the Councell of God, but frees himſelf from it, denying that his <hi>preaching ſtood in the</hi>
+               <note n="z" place="margin">Verſe 4.</note> 
+               <hi>inticing ſpeech of mans wiſdome,</hi> but on the contrary, <hi>in the plain evidence and demonstra<g ref="char:EOLhyphen"/>tion of the Spirit.</hi> And afterwards he gives the<note n="a" place="margin">Verſe 5.</note> reaſon for it, <hi>that their Faith ſhould not be in the wiſdome of men,</hi> by which, it ſeems, it is ſubject ſo to be, if that were uſed: And ſo we finde that indeed it is, and not in <hi>the power of God, by the plain demon<g ref="char:EOLhyphen"/>ſtration of the Spirit:</hi> And though in all this one would think the Apoſtle had ſaid enough in this matter for the manner of the delivering of the truth, yet for all this he hath not done with it, but minds it yet<note n="b" place="margin">1 Cor. 2.13.</note> again, ſaying, <hi>Which things as we know them, ſo we alſo ſpeak not with words, which mans wiſdome teacheth.</hi> And ſo again,<note n="c" place="margin">1 Cor. 4.19.</note> ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghtly paſſeth over the words of the falſe Teachers, as not worth the knowing or regarding; therefore he ſaith, <hi>When he comes he will know, not their words, but their power.</hi> And ſo againe, he condiſcends to the falſe Teachers, ſo far, as to confeſſe <hi>that he was</hi>
+               <note n="d" place="margin">1 Cor. 11.6.</note> 
+               <hi>rude in ſpeaking, but not ſo in knowledge:</hi> By all which places it plainly appears, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat <hi>mans wiſdome is to be rejected,</hi> even in <hi>ſpeaking the Word of God,</hi> and that none are to affect any excellency that way, but to content themſelves even with the uſe of the <hi>naturall abilities</hi> they have, without any art or skill in learning fur<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> But <hi>Apollo</hi> is ſaid to be an <hi>eloquent man,</hi> and <hi>mighty in the Scri<g ref="char:EOLhyphen"/>ptures, Acts</hi> 18.24.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> And ſo doubtleſſe was <hi>Paul,</hi> and <hi>Moſes,</hi> and thoſe menti<g ref="char:EOLhyphen"/>oned in <hi>Acts</hi> 19. and yet, as I have before manifeſted, that when as all theſe came to receive the <hi>Faith,</hi> they left, forſook, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd contemned all that; ſo do I believe was it here with this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, that when as he came to be taught further in the know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edge of Chriſt, that he then became more and more ſuitable <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>rudeneſſe</hi> and <hi>ſimplicity of preaching the Goſpel,</hi> as well <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Paul,</hi> for never afterwards do we read that he was com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended by that term, for ſuch manner of excellency was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roper to the Law, and not to the Goſpel in any degree. But <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>condly, take it for granted, that he perſiſted in his <hi>elo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uence,</hi> yet it appeares that it was ſuch as he had obtained <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y being <hi>mighty in the Scriptures:</hi> And this alſo further ju<g ref="char:EOLhyphen"/>ſtifies
+<pb n="32" facs="tcp:40978:21"/>a former Anſwer, <hi>that the Scripture alone is ſufficient to furniſh us with expreſſion.</hi> So now the point remaining <hi>true</hi> for all this, <hi>That men deſtitute of the Spirit, having</hi> Humane <hi>Learning, doe pervert the Scriptures to their owne deſtruction.</hi> This in the firſt place may teach</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> All men, that are without <hi>Gods Spirit,</hi> how wiſe and learn<g ref="char:EOLhyphen"/>ed otherwiſe they ſeeme to be, to beware of medling with the <hi>Scriptures,</hi> it is the worſt work that poſſibly they can un<g ref="char:EOLhyphen"/>dertake, for in ſo doing they meddle with that, in which they have no skill, and ſo wound themſelves: for it is a <hi>ſharp two edged ſword,</hi> and they having no skill to handle it, to be ſure, it will dangerouſly wound them to their own deſtructi<g ref="char:EOLhyphen"/>on: but ſeeing the <hi>truth</hi> is ſo, as that they have neither <hi>eares to heare,</hi> nor <hi>hearts to underſtand it,</hi> therefore I will thus paſſe it over: and</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> In the next place, take notice, that ſuch perſons without <hi>Gods Siprit,</hi> what ever they be elſe, yet they be both <hi>unlearn<g ref="char:EOLhyphen"/>ed</hi> and <hi>unſtable men,</hi> according to the <hi>mind of God:</hi> ſo the<note n="e" place="margin">1 Cor. 14.24</note> 
+               <hi>unbeliever</hi> is called of <hi>Paul,</hi> an <hi>unlearned man:</hi> and ſo much in effect,<note n="f" place="margin">Jam, 1, 6, 7, 8</note> 
+               <hi>James</hi> tells us of a Faithleſſe mans <hi>inconſtancy,</hi> that he <hi>is toſt about like a wave,</hi> and is <hi>unſtable in all his ways of</hi> Religion, for indeed wanting the <hi>Spirit</hi> to <hi>eſtabliſh</hi> him, he is driven hither and thither of every blaſt and breath of <hi>mans wiſdome,</hi> and ſo much experience, without any more Scrip<g ref="char:EOLhyphen"/>tures daily proves upon every change of <hi>Orders,</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances of Religon:</hi> how confident have many <hi>wiſe worldly lea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned men</hi> been of their <hi>ſtability</hi> for being brought to yeeld to this or that, when as the raging wave of the Sea hath roar<g ref="char:EOLhyphen"/>ed but a <hi>little?</hi> how have theſe men fallen from their ſuppoſed <hi>ſtabilitie</hi> and <hi>ſledfastnſſe?</hi> ſo that inſtances I need not name, every ones ſmall experience can bring forth enough: but from all this there is given us to ſee the Scriptures fulfilled before our eyes, for our confirmation, and their juſt con<g ref="char:EOLhyphen"/>victon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Now in the next place I will manifeſt in ſome few parti<g ref="char:EOLhyphen"/>culars, how theſe learned men, but according to <hi>Peters</hi> in<g ref="char:EOLhyphen"/>tent, unlearned men, doe pervert the Scriptures, making their interpretations as carnall as themſelves, for when as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scriptures ſpeak of learning, and ſo by it doe for the moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part commend unto us the learning of the Spirit of Truth, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="33" facs="tcp:40978:21"/>before we have ſeene from this Text, and many more pla<g ref="char:EOLhyphen"/>ces, theſe perſons preſently apply them to Humane Learning, and the Texts are all by them wreſted and perverted: and in this kinde many inſtances might further be alledged. Firſt concerning the Church, whereas the Scriptures doe Autho<g ref="char:EOLhyphen"/>rize Chriſtians to gather themſelves together in Chriſts name, and-ſo have the<note n="g" place="margin">Mat. 18.20.</note> promiſe of Gods preſence in ſo do<g ref="char:EOLhyphen"/>ing. This they preſently deny to be the intent of the place, and ſay, it is to be meant of two or three come together in performance of prayer, or ſuch like, contrary to the ſcope of the place, which treats only of ſuch as are in Church Order, and have committed to them the power of binding and looſing, which the promiſe of Chriſt Jeſus his approving of the ſame by them; and beſides, where in the Scriptures is Chriſt Jeſus ſaid to be in the midſt of any but his<note n="h" place="margin">Levit. 16.11, 12. 2 Cor. 7.16. Pſ. 132.13.14. Rev. 13.1. Rev. 2.1.</note> Chur<g ref="char:EOLhyphen"/>ches. And further, whereas the Scriptures ſpeake of the Church, Temple, and Houſe of God, applying theſe ſayings to beleevers, and ſuch as are<note n="i" place="margin">2 Cor. 6.16. <hi>with</hi> Heb. 3.6. <hi>with</hi> 1 Pet. 2.5.</note> 
+               <hi>bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lded upon Chriſt by faith,</hi> theſe they reſt and pervert, in applying theſe titles to their houſes of lime and ſtone; calling them the houſes of God, and Tem<g ref="char:EOLhyphen"/>ples for him to dwell in; though the Scriptures be plain to the contrary, as <hi>Stephen</hi> declared to the<note n="k" place="margin">Act 7.47.28.50.</note> Councel long agoe, and that from the Teſtimony of the<note n="l" place="margin">Iſay 66.1.</note> Prophet long before: and ſo our<note n="m" place="margin">Iohn 4.21</note> Saviour himſelfe to the woman of Samaria, denying for the time to come any ſuch places, as the Jews and Samaritans doted on, but tells her, and us, that ſpirituall ſervice in<note n="n" place="margin">Mat. 18.20.</note> any place, as he ſaith himſelfe ſhould pleaſe him, though it will not give carnall men content. Likewiſe are not the Scriptures alledged frequently by theſe learned men for the Nation and people for being the Church of God, and for the ſame end, Nationall obſervances as the High Prieſts conſecrated and ſet apart for the ſervices of the Church, and ſo under him the reſt of the holy Prieſts, with their holy garments, and tithes, and ſuch like for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir maintenance, and for this purpoſe the Scriptures alledg<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in a moſt plentifull manner, both from the Law and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Prophets, for the juſtifying of their names, orders, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dminiſtrations, when as if it be ſpirituall diſcerned, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Scripturs not wreſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d nor perverted, it will be found <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue as <hi>Peter</hi>
+               <note n="o" place="margin">Act. 10 14, 15</note> ſaith, that not every Nation, nor any more any
+<pb n="34" facs="tcp:40978:22"/>Nation, but in every <hi>Nation them that fear the Lord,</hi> and none other, <hi>are accepted of him:</hi> Whereas Chriſt Jeſus himſelf<note n="p" place="margin">Rev. 13.7. <hi>with</hi> Rev. 16, 19.</note> hath told us, that the<note n="q" place="margin">Pſa. 125. Pſal. 1.</note> 
+               <hi>beaſts</hi> ſhould have <hi>power over every Kindred, Nation, and Tongue,</hi> and that the <hi>National Cities ſhould fall,</hi> whereas <hi>Mount Sion, the City of God</hi> ſhall never be moved, as ſaith the<note n="r" place="margin">Heb. 12.</note> Prophet, and alſo the Apoſtle; by this then it ap<g ref="char:EOLhyphen"/>pears, that all ſuch Scriptures as are alledged for the mainte<g ref="char:EOLhyphen"/>nance of a <hi>National Church</hi> are perverted, being that long ſince the Lord hath rejected it, now accounting a company of Saints in fellowſhip with himſelf to be <hi>Mount</hi>
+               <note n="ſ" place="margin">Rev. 14.1. Pſa 14 9 <hi>from</hi> 6. <hi>to</hi> 9.</note> 
+               <hi>Sion,</hi> that ſhall never be moved, and theſe he hath made<note n="t" place="margin">Rev. 1.6. <hi>&amp;</hi> 5.10. 1 Pet. 2.9.</note> 
+               <hi>Kings and Priests to God.</hi> The like we may ſee in the Miniſters of the Church, ſeeing that they were of old times in that Church, to be ho<g ref="char:EOLhyphen"/>norable perſons in outward honor and eſteem, for their names <hi>Priests,</hi> for their <hi>callings</hi> above the reſt of the people, <hi>a diſtinct body of themſelves,</hi> for their <hi>apparel,</hi> different in their <hi>admini<g ref="char:EOLhyphen"/>ſtrations</hi> from other of the people, and ſo for their <hi>maintenance,</hi> by <hi>tythes,</hi> and <hi>offerings,</hi> all which had a reſpect to Chriſt, and were in him to have their end, as the Apoſtle<note n="u" place="margin">Gal. 4.12.</note> declares, as be<g ref="char:EOLhyphen"/>ing but <hi>worldly rudiments.</hi>
+            </p>
+            <p>Yet theſe men though they profeſſe themſelves <hi>Ministers of Jeſus Chriſt,</hi> and under the Goſpel, yet Child-like, as under <hi>Tutors</hi> and <hi>Governors,</hi> do yet obſerve theſe things after the ru<g ref="char:EOLhyphen"/>diments of the world, and ſo ſuitably to the Goſpel, cannot abide to approve themſelves to be Miniſters of Chriſt, by ſuch marks as his Word affords, as we have<note n="x" place="margin">2 Cor. 6. <hi>from</hi> 4. <hi>to</hi> 10.</note> before conſidered, but they muſt be men of Honour, and ſuch as be diſtinct from others, in their apparel, maintenance, and ſuch like; diſhonor, and reproach, and nakedneſſe, and living on meet Alms, they cannot brook; but they be ſo far from working with their own hands for their own neceſſities, as the Apoſtle requires that the<note n="y" place="margin">Act. 2.33, 34, 35.</note> Miniſters of the Goſpel ſhould do, as that they wreſt the Scriptures of the Law and the Prophets, haling in, as it were, by the hair of the head, the Scriptures, to ſpeak for them and their delicious living, faring, like <hi>Dives,</hi> deliciouſly every day, whereas the Elders of Jeſus Chriſt ſhould<note n="z" place="margin">1 Pet. 5.1, 2</note> feed the Flock of God, not caring for it for filthy lucre, but of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ready mind.</p>
+            <p>But leaving theſe things, and ſuch as theſe are, which de<g ref="char:EOLhyphen"/>clare them to be more ſuitable for <hi>Moſes</hi> and the Law, which
+<pb n="35" facs="tcp:40978:22"/>tends unto wrath and bondage, then ſuch as are Miniſters of Chriſt, and made partakers of the liberty of the ſervants of God.</p>
+            <p>
+               <note n="1" place="margin">Object with the Anſwer.</note> I will ſpeak of ſome few things that are in difference among them and us. You know it is uſually objected againſt us, be<g ref="char:EOLhyphen"/>cauſe of our departure, out of the<note n="a" place="margin">Joh. 6.68.</note> words of <hi>Peter</hi> to our Saviour, being theſe, <hi>Whether ſhall we go, thou haſt the words of eternal life?</hi> From whence is concluded againſt us, if the Text be not perverted, that we in leaving them do forſake Jeſus Chriſt, wherein they take it for granted, that he is with them, and not with thoſe that forſake them; whereas the Text is clear to prove, that the words of eternall life are in him, as<note n="b" place="margin">John 6.</note> himſelf ſaith alſo, <hi>The words that I ſpeak are Spirit and Life,</hi> and this who denies, but that he that hath the Son hath life, he that hath not the Son, hath no life: But let not the Text be wreſted, yet what proof is here that <hi>Antichriſt</hi> hath the words of eternall life, and that there is no forſaking of him, and yet all that know wherein the difference lies, know that this is the controverſie, and how that theſe perſons, thus forſake<g ref="char:EOLhyphen"/>ing, go to Chriſt, and to the word of Eternal Life, ſeeing that the Lord<note n="c" place="margin">Iſa. 8.16.</note> binds the teſtimony, and ſeals up the Law among his Diſciples; ſo that till it can be proved that theſe leave Chriſt, and forſake the words of Eternal Life, the Text muſt be taken for none other but to be perverted, and a Vail drawn over it to beguile the ſimple.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Upon this ſame head hangs another great exception againſt us, which is, Where we had our converſion (if we have any) if not among them, and ſo taking it for granted, that we had it among them, a great out cry is made againſt us, as if we had ſtoln their gods, and done them great wrong, and for this pur<g ref="char:EOLhyphen"/>poſe, this amongſt other things is alledged, that that Church which is able to beget, is able to bring up.</p>
+            <p>Now for anſwer hereunto, it is to be minded, that converſi<g ref="char:EOLhyphen"/>on doth properly belong to the<note n="d" place="margin">Pſal 19.7. Rom. 1.16. 1 Pet. 1.3 23.</note> Word of the Lord: Now this word by which we are all begotten, is the proper portion of the Church of God, as<note n="e" place="margin">Pſ. 147.19, 20. Mat. 13.11. 1 Cor. 3.22.</note> divers Scriptures declare: Hence then muſt it needs follow, that whoſoever are converted to the Lord, thoſe by vertue of their converſion belong to the true Church,<note n="*" place="margin">Converts belong to the true Church.</note> becauſe, as is before ſaid, the word is hers, and therefore they are to cleave to her, and forſake thoſe places
+<pb n="36" facs="tcp:40978:23"/>where they were converted, and that for this reaſon, becauſe the Lord himſelf is<note n="f" place="margin">Pſa. 78.6.</note> ſaid to count, when as he writes the peo<g ref="char:EOLhyphen"/>ple, that this man was born there, that is, in <hi>Sion,</hi> the Church of God, though that the man were converted in mans account in <hi>Babel</hi> and <hi>Palestina,</hi> yet the Lord when he counts, ſhall write the converted man to be born in <hi>Sion his Church:</hi> Now all Gods people ſhould count and write as God doth, and give <hi>Babel</hi> no honour at all of their converſion, becauſe the Lord doth not give her any; and the ſame thing is abundantly ſeen in the Converts, that they are<note n="g" place="margin">Act. 2.40.</note> exhorted to leave thoſe places where they were converted, and ſo they did, as the<note n="h" place="margin">Act. 2.44. <hi>&amp;</hi> 17.4.34.</note> 
+               <hi>Scripture</hi> manifeſts in many places, which might be noted.</p>
+            <p>Again it is to be minded, that God himſelf counts all the <hi>faithful</hi> to belong to the<note n="i" place="margin">Rev. 12.4, 5</note> 
+               <hi>Woman,</hi> the <hi>Church of God,</hi> as ap<g ref="char:EOLhyphen"/>pears in the <hi>Revelations,</hi> where the <hi>Man-child,</hi> as is evident by<note n="k" place="margin">Exod. 4.23, 23.</note> other places, contains all the <hi>faithful,</hi> even the whole <hi>Church of God:</hi> This <hi>Son of God,</hi> and his <hi>Man-child,</hi> is called his<note n="l" place="margin">Exod. 5.1.</note> 
+               <hi>people.</hi> The like appears in <hi>Iſay</hi> 66.7, 8. where the <hi>Man-child</hi> is inter<g ref="char:EOLhyphen"/>preted to be a <hi>whole Nation of Children,</hi> including all the <hi>faith<g ref="char:EOLhyphen"/>ful.</hi> Now this <hi>Woman</hi> is ſaid to be in <hi>Travail, crying,</hi> and if yours be that <hi>Church</hi> that is in this <hi>Travail, crying,</hi> and in <hi>pain,</hi> accord<g ref="char:EOLhyphen"/>ing to the Scriptures, I am content the <hi>Child</hi> ſhall be acknow<g ref="char:EOLhyphen"/>ledged yours, but if it be in <hi>jollity</hi> and without <hi>ſorrow,</hi> putting the others to pain, and ready to cut the <hi>living Child in pieces,</hi> how then can I acknowledge it for the true <hi>Mother?</hi> when as alſo the Apoſtle ſaith, <hi>That</hi> Jeruſalem <hi>that is from above is the</hi>
+               <note n="m" place="margin">Gal. 4.24.</note> 
+               <hi>Mother of us all,</hi> and ſhe is not one that <hi>gendreth</hi> to <hi>bondage,</hi> but to <hi>freedome,</hi> as ſaith the Apoſtle, and therefore methinks it appears that every ones <hi>converſion</hi> ſtrongly binds him to make ſpeed to that <hi>Church</hi> which conſiſts of ſuch as are <hi>faithful in Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> as being the proper inheritance to which they all belong, and to know that all ſuch places as are alledged to conclude otherwiſe, be but wreſted and perverted, though ne<g ref="char:EOLhyphen"/>ver ſo fair a gloſſe be ſet upon them, for God, ever ſince the beginning, hath <hi>put enmity betwixt the ſeed of the Woman, and the ſeed of the Serpent,</hi> and accu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed ſhall all they be that joyne thoſe together, that God hath ſo far ſeparated; and therefore let none of <hi>Gods ſervants</hi> ſtand with one foot on <hi>Mount Sion,</hi> and another on <hi>Babylon,</hi> leſt that which is <hi>halting</hi> be turned out of the way, <hi>Heb.</hi> 12.</p>
+            <pb n="37" facs="tcp:40978:23"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label>  Another Objection againſt us is brought in the defence of your <hi>Ministery,</hi> after this manner:</p>
+            <p>
+               <hi>That Ministery that doth the work of the Ministery of Jeſus Chriſt ſpoken of in</hi> Epheſ. 4. <hi>for the perfecting of the Saints, is a true Ministery, but your Ministery (you ſay) doth the ſame work,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> Was it the work of the Miniſtery of the Apoſtles, <hi>&amp;c.</hi> to read <hi>Divine Service, Church women, Marry, and bury the Dead,</hi> and ſuch like ſervices as theſe are? Did the Apoſtles <hi>perfect the Saints</hi> af<g ref="char:EOLhyphen"/>ter this manner? For who knows not but that this is the ſub<g ref="char:EOLhyphen"/>ſtance of what your office of Miniſtery binds you unto? as for Preaching, that may be diſpenſed withall, and a little now and then may ſerve the turn.</p>
+            <p>Beſides, as is granted, your offices are not the ſame there men<g ref="char:EOLhyphen"/>tioned, that <hi>Jeſus Chriſt from on high gave gifts unto,</hi> for you have others, that the <hi>Scripture</hi> ſpeaks not any otherwiſe then by the<note n="n" place="margin">Rev. 17.3.</note> 
+               <hi>names of blaſphemy:</hi> But for the power and work of the Mini<g ref="char:EOLhyphen"/>ſtery, which you ſay is anſwerable to that of the Apoſtles, by your gathering of the Saints together, taking it for granted that you ſay, from <hi>what do you convert them?</hi> If from the <hi>power of dark<g ref="char:EOLhyphen"/>neſſe,</hi> as you would ſeem to imply, into the <hi>Kingdom of Chriſt,</hi> as<note n="o" place="margin">Col. 1.13.</note> did the Apoſtle, then by your own grant in the <hi>power of dark<g ref="char:EOLhyphen"/>neſſe you found them;</hi> and the truth is, that where you found them, there you leave them; when you found them before their <hi>con<g ref="char:EOLhyphen"/>verſion,</hi> you profeſſed of them that they were <hi>regenerate</hi> and <hi>bo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> anew,</hi> to what then do you <hi>convert them?</hi> or have you <hi>converſion</hi> after <hi>regeneration?</hi> you alſo bade theſe perſons before, <hi>to take and eat in remembrance that Chriſt died for them,</hi> and ſo give them the <hi>Seals</hi> of <hi>Life</hi> and <hi>Salvation;</hi> and yet after all this, you being Mi<g ref="char:EOLhyphen"/>niſters to them, come to juſtifie the truth of your <hi>Ministery</hi> by your <hi>converſion</hi> of the <hi>people,</hi> that by theſe things no need of <hi>a<g ref="char:EOLhyphen"/>mendment,</hi> and yet when all is done that you plead for, they ſtill abide in the ſame Church under the ſame <hi>Ministery,</hi> in the ſame <hi>worſhip</hi> that they were converſant in before, whereas I have de<g ref="char:EOLhyphen"/>clared before, that when as the Apoſtle <hi>converted</hi> any, thoſe <hi>converts</hi> left their former places, turning from <hi>dumb Idols to ſerve the living God.</hi> Now it hath been long acknowledged and profeſſed, <hi>that the worſhip of your Church,</hi>
+               <note n="*" place="margin">Miniſters that now are, ſaith be, come of <hi>Rome.</hi>
+               </note> 
+               <hi>and the Miniſtery of it, came out of the Popes Shop,</hi> and muſt needs be reformed, or elſe the judgment of God cannot but light upon you, as hath
+<pb n="38" facs="tcp:40978:24"/>been manifeſted in the <hi>firſt and ſecond admonition to the Parlia<g ref="char:EOLhyphen"/>ment, in the daies of</hi> Queen Elizabeth; and all know that yet it continues the ſame that then it was, and if it were ſo bad then, as it is reported that a thouſand <hi>Ministers</hi> ſaid it was, ſmall cauſe have any to plead <hi>Converſion,</hi> when as they ſhall continue in ſuch <hi>abominations,</hi> as that the plagues of God cannot by their own confeſſion be withheld: Seeing that the <hi>Scriptures</hi> and <hi>Spirit of God</hi> teacheth us, that the<note n="p" place="margin">Pſa. 119.101.</note> 
+               <hi>fear of the Lord teacheth men to refrain their feet from every evil way,</hi> and <hi>to cleanſe our ſelves from all filthineſſe both of fleſh and ſpirit,</hi> and <hi>to grow up unto full ho<g ref="char:EOLhyphen"/>lineſſe in the fear of God,</hi> or the <hi>worſhip of God,</hi> as our <hi>Saviour</hi>
+               <note n="q" place="margin">Mat. 4. 2 Cor. 2.1.</note> in<g ref="char:EOLhyphen"/>terprets it, and to <hi>hate the very</hi>
+               <note n="r" place="margin">Jude 23.</note> 
+               <hi>garment ſpotted by the fleſh.</hi> Now theſe things well conſidered, it will appear that the ſeveral <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi> that are continually brought for the maintenance of your Miniſtery, are but ſo many flouriſhes by which the <hi>Word of Truth</hi> is wreſted and wringed like to a <hi>Noſe of Wax,</hi> contrary to their proper intents and ſcopes to ſerve their own turns, which who they be, of you, or others, that are the perverters of them, God knows, and one day will judg betwixt the <hi>righteous</hi> and the <hi>wicked,</hi> and give to every one according as his works ſhall be: In the mean while, to me it appears plain, that <hi>men destitute of the Spirit of God,</hi> be they as <hi>learned</hi> as may be in <hi>mans learning,</hi> yet they do pervert all <hi>Scriptures</hi> to their own deſtruction, when as the unlearned one, ſimple men and women having the <hi>Spirit of Truth</hi> in them, ſhall rightly know them, and <hi>Gods mind</hi> in them for their great <hi>comfort.</hi>
+            </p>
+            <p>Again, ſeeing this is ſo, that ſuch men do thus pervert the Scri<g ref="char:EOLhyphen"/>ptures, this ſhould provoke all that are made able Miniſters of the Spirit, as ſaith the<note n="ſ" place="margin">2 Cor. 3.2.</note> Apoſtle, that they take the ſame Apo<g ref="char:EOLhyphen"/>ſtles<note n="t" place="margin">1 Tim. 4.6.</note> adviſe, ſaying, <hi>If thou put the brethren in remembrance of theſe things, thou ſhalt be a good Minister of Jeſus Chriſt:</hi> If thou put the brethren in remembrance of theſe things. What thing? thoſe things mentioned<note n="u" place="margin">From the <hi>1</hi> Verſe.</note> before, how that the Spirit hath fore<g ref="char:EOLhyphen"/>told of doctrines of devils, how that men ſhould ſpeak lies through hypocriſie, &amp;c. as <hi>Zachary</hi> alſo foretold, that the<note n="x" place="margin">Zach. 13.3.</note> Fa<g ref="char:EOLhyphen"/>ther and Mother of the Prophet ſhould ſay, that he told them lies in the name of the Lord: If thou put the Brethren in re<g ref="char:EOLhyphen"/>membrance of theſe things, becauſe they are ſubject to forget them, and thou ſhouldeſt be their Remembrancer, which if thou do, thou ſhalt be a good Miniſter of Jeſus Chriſt, which
+<pb n="39" facs="tcp:40978:24"/>haſt been nouriſhed up in the words of Faith and good Do<g ref="char:EOLhyphen"/>ctrine; then mark, theſe things are not error, nor lies, nor he a falſe Teacher that ſpeaketh of them, out a good Miniſter that hath been nouriſht up in faith and good doctrine, which was continually taught of <hi>Paul,</hi> and heard of <hi>Timothy:</hi> And to this is to be added what the Apoſtle<note n="y" place="margin">1 Tim. 6.3.4</note> ſaith further in this matter, declaring, that he that conſenteth not to wholeſome doctrine, that is according to godlineſſe, is puft up, and knows nothing, but dotes about words, and as ſuch a one, as is ſo far corrupted by the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh, as that he is to be ſeparated from; therefore Gods good Miniſters, as we ſee ſhould be carefull of theſe things, as knowing of whom they ſhall receive their reward, and what ſhall alſo be their portion from men of the world, in that which is<note n="z" place="margin">Rev. 11.7.</note> death in the world, but<note n="a" place="margin">Rev. 14.13.</note> life with the Lord, <hi>Be faithful therefore to the death, and you ſhall have a</hi>
+               <note n="b" place="margin">Rev. 2.10.</note> 
+               <hi>Crown of Life;</hi> de<g ref="char:EOLhyphen"/>claring the power of the Spirit of the Lord in you.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> Now in the laſt place, I will conclude with the exhortation of the<note n="c" place="margin">2 Pet. 3.16.18.</note> Apoſtle in the words following; <hi>Yea, therefore beloved, ſeeing ye knew theſe things before;</hi> What things? among others thoſe, that worldly learned men, are Gods unlearned men, be<g ref="char:EOLhyphen"/>ing deſtitute of his Spirit, beware and take heed leſt ye alſo, as well as others (you being ſubject to it) be plucked away before you be aware into the error of the <hi>wicked,</hi> to think that <hi>Gods Mysteries</hi> can be attained to by <hi>mans learning,</hi> and ſo you fall from your own <hi>ſtedfastneſſe,</hi> which is<note n="d" place="margin">Rom. 11.</note> 
+               <hi>through Faith,</hi> for by <hi>Faith ye ſtand,</hi> and by the <hi>Spirit,</hi> for by it ye are alſo<note n="e" place="margin">Pſal. 51.</note> 
+               <hi>eſtabliſht;</hi> and for a preſervative againſt this <hi>error,</hi> as oppoſite to it, <hi>grow and encreaſe in the grace of God, and the knowledge of the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> which is that that will preſerve you from <hi>error.</hi> Now to him be <hi>glory,</hi> not to us, nor to man, but to him our <hi>Lord Jeſus Chriſt,</hi> both now and for evermore. <hi>Amen.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ESAY 64.25.</hi>
+               </bibl>
+               <p>The Lord fruſtrateth the tokens of the Lyars, and maketh Di<g ref="char:EOLhyphen"/>viners mad, turneth wiſe men backward, and maketh their know<g ref="char:EOLhyphen"/>ledge fooliſhneſſe.</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:40978:25" rendition="simple:additions"/>
+            <head>POSTSCRIPT.</head>
+            <p>HAving before the death of this Author been well acquaint<g ref="char:EOLhyphen"/>ed with him, and taſted that Spirit of Light and Truth which God in his day did more then ordinary powre out upon him, by which he was inabled to miniſter ſeaſonable words, to the refreſhing of many weary ſouls, and alſo to contend againſt thoſe corruptions and inventions which men brought into the Worſhip of God, raging like the mighty waters againſt all the Servants of God which oppoſed them in the ſame, I mean the power of Prelacy which ruled them in that day, the weight of whoſe perſecuting hand, this Author while he lived had his ſhare, and when he died, not ſuffered by them to have that which they called Chriſtian Buriall, but his friends were forced to lay his body in the high way, as one which was numbred amongſt the Tranſgreſſors, of whom, I may ſay, the world was not worthy: But my intent in writing this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> word, is not to commend the Author, but to tender to thy review the matter of this fore<g ref="char:EOLhyphen"/>going Book, the bent thereof is to advance the Teachings of the Spirit of Chriſt in the unfolding of the myſtery of the Go<g ref="char:EOLhyphen"/>ſpel to the hearts of men, as the choice Revealer of that glory of truth to the ſoul, which will change from glory to glory into its own likeneſs, a truth much oppoſed by men of corrupt minds in this day, and therefore it becomes all that love the Lord Je<g ref="char:EOLhyphen"/>ſus in ſincerity to ſtand upon their watch, and be earneſtly beg<g ref="char:EOLhyphen"/>ing of the Father of Lights that Spirit which may help them to judg of things that differ, and may lead into ſtrait paths, <hi>trying all things, and holding faſt that which is good.</hi> Thou wilt find in this Tract the Spirit of the Author ſtrongly and zealouſly con<g ref="char:EOLhyphen"/>tending for the advancement of the Spirit of Chriſt, which if therein thou meet'ſt with any words that may ſeem harſh againſt that which men advance, let it not be an offence to thee, but try whether it be agreeable to the form of found words or no. I ſhall detain thee no longer, but my deſires to the Lord is, that all his <hi>Iſra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> may more and more know the truth, as it is in Je<g ref="char:EOLhyphen"/>ſus, ſhining as the Sun more to their perfect clearneſſe, knowing the night is far paſt, and the day neer approaching, that ſo we may walk as the Children of the Light, waiting for the glorious appearing of him that will come, and not tarry.</p>
+            <closer>
+               <signed>Yours in the love of Chriſt, <hi>William Kyffen.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:40978:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
